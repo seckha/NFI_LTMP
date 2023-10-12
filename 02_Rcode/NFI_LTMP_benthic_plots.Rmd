@@ -45,7 +45,7 @@ benthic.cats <- t.cover %>%
       ifelse(Genera %in% c("GOH"), 
              "Goniopora",
       ifelse(Genera %in% c("MEH"),
-               "Montipora_encrusting",
+             "Montipora_encrusting",
       ifelse(Genera %in% c("MPH"),
              "Montipora_plating", 
       ifelse(Genera %in% c("OBH"),
@@ -76,10 +76,10 @@ benthic.cats <- t.cover %>%
                "Other","NA"
              ))))))))))))))))))))
 ```
-Sum counts/cover per quadrat
+SUM counts/cover per quadrat
 ```{r}
 groups_sum <- benthic.cats %>% 
-  group_by(TP,Transect_ID,PQ,Category) %>%
+  group_by(TP,Site,Transect_ID,PQ,Category) %>%
   summarise(Total_cover = sum(Cover))
 
 write.csv(groups_sum, file = "/Users/Shannon/GitHub/NFI_LTMP/01_Data/Cover_per_category_per_quadrat.csv")
@@ -88,5 +88,57 @@ write.csv(groups_sum, file = "/Users/Shannon/GitHub/NFI_LTMP/01_Data/Cover_per_c
 filter(groups_sum, Category == "NA")
 
 # no NAs because dead coral is now in the category R = Rubble
+```
+
+Specify the main groups for plotting
+- Hard coral as one category and not separate genera
+```{r}
+cover.groups <- groups_sum  %>%
+  mutate(Main_groups = 
+      ifelse(Category %in% c("Acropora_branch", "Acropora_non_branch", "Acanthastrea","Goniopora","Montipora_encrusting","Montipora_plating","Pocilloporidae","Platygyra","Porites", "Other hard coral"),
+             "Hard coral",
+      ifelse(Category %in% c("Macroalgae"), 
+             "Macroalgae",
+      ifelse(Category %in% c("Other Turf"), 
+             "Other Turf",
+      ifelse(Category %in% c("Red Turf"), 
+             "Red Turf",
+      ifelse(Category %in% c("Green Turf"), 
+              "Green Turf",
+      ifelse(Category %in% c("Black Turf"),
+               "Black Turf",
+      ifelse(Category %in% c("Rubble and Rock"),
+             "Rubble and Rock", 
+      ifelse(Category %in% c("Sand"),
+             "Sand",
+      ifelse(Category %in% c("Other benthic invertebrates"),
+             "Other benthic invertebrates",
+      ifelse(Category %in% c("Other"),
+      "Other","NA"
+             )))))))))))
+
+# SUM for main groups per quadrat
+main_groups_cover_transect <- cover.groups %>% 
+  group_by(TP,Site,Transect_ID, PQ, Main_groups) %>% 
+  summarise(sum.PQ = sum(Total_cover))
+
+# AVG main groups per transect
+average_cover_main_groups <- main_groups_cover_transect %>% 
+  group_by(TP,Site,Transect_ID,Main_groups)%>% 
+  summarise(avg.cover=mean(sum.PQ))
+
+write.csv(average_cover_main_groups, file = "/Users/Shannon/GitHub/NFI_LTMP/01_Data/NFI_transect_average_cover.csv")
+
+# AVG cover per TP, Site (SE)
+            
+average_cover_all <- average_cover_main_groups %>% 
+  group_by(TP,Site,Main_groups) %>% 
+  summarise(avg.cover.all=mean(avg.cover),
+            median_cover = median(avg.cover),
+  N = n(),
+  SD_cover = sd(avg.cover),
+  SE_cover = sd(avg.cover/sqrt(n())))
+
+write.csv(average_cover_all, "/Users/Shannon/GitHub/NFI_LTMP/01_DataNFI_time_site_average_cover.csv")
 ```
 

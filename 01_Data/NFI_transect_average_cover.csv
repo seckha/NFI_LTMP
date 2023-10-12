@@ -1,0 +1,2551 @@
+"","TP","Site","Transect_ID","Main_groups","avg.cover"
+"1","April_2022","CB","CB1","Black Turf",0
+"2","April_2022","CB","CB1","Green Turf",0.3
+"3","April_2022","CB","CB1","Hard coral",14.4
+"4","April_2022","CB","CB1","Macroalgae",11.3
+"5","April_2022","CB","CB1","Other",0
+"6","April_2022","CB","CB1","Other Turf",1.6
+"7","April_2022","CB","CB1","Other benthic invertebrates",0
+"8","April_2022","CB","CB1","Red Turf",0
+"9","April_2022","CB","CB1","Rubble and Rock",0.1
+"10","April_2022","CB","CB1","Sand",72.3
+"11","April_2022","CB","CB2","Black Turf",0
+"12","April_2022","CB","CB2","Green Turf",0.7
+"13","April_2022","CB","CB2","Hard coral",27.4
+"14","April_2022","CB","CB2","Macroalgae",23.1
+"15","April_2022","CB","CB2","Other",0
+"16","April_2022","CB","CB2","Other Turf",8.9
+"17","April_2022","CB","CB2","Other benthic invertebrates",0.8
+"18","April_2022","CB","CB2","Red Turf",0
+"19","April_2022","CB","CB2","Rubble and Rock",0.4
+"20","April_2022","CB","CB2","Sand",38.7
+"21","April_2022","CB","CB3","Black Turf",0
+"22","April_2022","CB","CB3","Green Turf",0
+"23","April_2022","CB","CB3","Hard coral",24.4
+"24","April_2022","CB","CB3","Macroalgae",11.5
+"25","April_2022","CB","CB3","Other",0
+"26","April_2022","CB","CB3","Other Turf",5.4
+"27","April_2022","CB","CB3","Other benthic invertebrates",0.4
+"28","April_2022","CB","CB3","Red Turf",0
+"29","April_2022","CB","CB3","Rubble and Rock",2.2
+"30","April_2022","CB","CB3","Sand",56.1
+"31","April_2022","CB","CB5","Black Turf",0
+"32","April_2022","CB","CB5","Green Turf",0.8
+"33","April_2022","CB","CB5","Hard coral",43.8
+"34","April_2022","CB","CB5","Macroalgae",12.1
+"35","April_2022","CB","CB5","Other",0
+"36","April_2022","CB","CB5","Other Turf",11.3
+"37","April_2022","CB","CB5","Other benthic invertebrates",0.4
+"38","April_2022","CB","CB5","Red Turf",0
+"39","April_2022","CB","CB5","Rubble and Rock",0.1
+"40","April_2022","CB","CB5","Sand",31.5
+"41","April_2022","CB","CB6","Black Turf",0
+"42","April_2022","CB","CB6","Green Turf",1
+"43","April_2022","CB","CB6","Hard coral",52.5
+"44","April_2022","CB","CB6","Macroalgae",7.7
+"45","April_2022","CB","CB6","Other",0
+"46","April_2022","CB","CB6","Other Turf",6
+"47","April_2022","CB","CB6","Other benthic invertebrates",2.3
+"48","April_2022","CB","CB6","Red Turf",0
+"49","April_2022","CB","CB6","Rubble and Rock",0.3
+"50","April_2022","CB","CB6","Sand",30.2
+"51","April_2022","CB","CB7","Black Turf",0
+"52","April_2022","CB","CB7","Green Turf",0.8
+"53","April_2022","CB","CB7","Hard coral",36.4
+"54","April_2022","CB","CB7","Macroalgae",7.6
+"55","April_2022","CB","CB7","Other",0
+"56","April_2022","CB","CB7","Other Turf",8.3
+"57","April_2022","CB","CB7","Other benthic invertebrates",0.5
+"58","April_2022","CB","CB7","Red Turf",0
+"59","April_2022","CB","CB7","Rubble and Rock",0.1
+"60","April_2022","CB","CB7","Sand",46.3
+"61","April_2022","EB","EB1","Black Turf",0
+"62","April_2022","EB","EB1","Green Turf",0.363636363636364
+"63","April_2022","EB","EB1","Hard coral",8.45454545454546
+"64","April_2022","EB","EB1","Macroalgae",17.8181818181818
+"65","April_2022","EB","EB1","Other",0
+"66","April_2022","EB","EB1","Other Turf",0.0909090909090909
+"67","April_2022","EB","EB1","Other benthic invertebrates",0.909090909090909
+"68","April_2022","EB","EB1","Red Turf",56.6363636363636
+"69","April_2022","EB","EB1","Rubble and Rock",8.36363636363636
+"70","April_2022","EB","EB1","Sand",7.36363636363636
+"71","April_2022","EB","EB10","Black Turf",0.5
+"72","April_2022","EB","EB10","Green Turf",1.4
+"73","April_2022","EB","EB10","Hard coral",40.5
+"74","April_2022","EB","EB10","Macroalgae",20.6
+"75","April_2022","EB","EB10","Other",0
+"76","April_2022","EB","EB10","Other Turf",1.2
+"77","April_2022","EB","EB10","Other benthic invertebrates",1.3
+"78","April_2022","EB","EB10","Red Turf",20.7
+"79","April_2022","EB","EB10","Rubble and Rock",0
+"80","April_2022","EB","EB10","Sand",13.8
+"81","April_2022","EB","EB11","Black Turf",0.5
+"82","April_2022","EB","EB11","Green Turf",1
+"83","April_2022","EB","EB11","Hard coral",18
+"84","April_2022","EB","EB11","Macroalgae",10.6
+"85","April_2022","EB","EB11","Other",0
+"86","April_2022","EB","EB11","Other Turf",2.1
+"87","April_2022","EB","EB11","Other benthic invertebrates",0.7
+"88","April_2022","EB","EB11","Red Turf",16.2
+"89","April_2022","EB","EB11","Rubble and Rock",0
+"90","April_2022","EB","EB11","Sand",50.9
+"91","April_2022","EB","EB12","Black Turf",0
+"92","April_2022","EB","EB12","Green Turf",0.2
+"93","April_2022","EB","EB12","Hard coral",7.5
+"94","April_2022","EB","EB12","Macroalgae",15.9
+"95","April_2022","EB","EB12","Other",0
+"96","April_2022","EB","EB12","Other Turf",0.1
+"97","April_2022","EB","EB12","Other benthic invertebrates",0.8
+"98","April_2022","EB","EB12","Red Turf",6.4
+"99","April_2022","EB","EB12","Rubble and Rock",0
+"100","April_2022","EB","EB12","Sand",69.1
+"101","April_2022","EB","EB13","Black Turf",0.1
+"102","April_2022","EB","EB13","Green Turf",0.6
+"103","April_2022","EB","EB13","Hard coral",30.2
+"104","April_2022","EB","EB13","Macroalgae",9.8
+"105","April_2022","EB","EB13","Other",0.1
+"106","April_2022","EB","EB13","Other Turf",3.3
+"107","April_2022","EB","EB13","Other benthic invertebrates",0.3
+"108","April_2022","EB","EB13","Red Turf",11.7
+"109","April_2022","EB","EB13","Rubble and Rock",1.1
+"110","April_2022","EB","EB13","Sand",42.8
+"111","April_2022","EB","EB14","Black Turf",0.0909090909090909
+"112","April_2022","EB","EB14","Green Turf",0.181818181818182
+"113","April_2022","EB","EB14","Hard coral",8.09090909090909
+"114","April_2022","EB","EB14","Macroalgae",12.4545454545455
+"115","April_2022","EB","EB14","Other",0
+"116","April_2022","EB","EB14","Other Turf",1.36363636363636
+"117","April_2022","EB","EB14","Other benthic invertebrates",1.18181818181818
+"118","April_2022","EB","EB14","Red Turf",7.18181818181818
+"119","April_2022","EB","EB14","Rubble and Rock",0
+"120","April_2022","EB","EB14","Sand",69.4545454545455
+"121","April_2022","EB","EB15","Black Turf",0.6
+"122","April_2022","EB","EB15","Green Turf",1.7
+"123","April_2022","EB","EB15","Hard coral",18.2
+"124","April_2022","EB","EB15","Macroalgae",20.2
+"125","April_2022","EB","EB15","Other",0
+"126","April_2022","EB","EB15","Other Turf",3.4
+"127","April_2022","EB","EB15","Other benthic invertebrates",1.6
+"128","April_2022","EB","EB15","Red Turf",18.3
+"129","April_2022","EB","EB15","Rubble and Rock",1
+"130","April_2022","EB","EB15","Sand",35
+"131","April_2022","EB","EB2","Black Turf",1.1
+"132","April_2022","EB","EB2","Green Turf",0
+"133","April_2022","EB","EB2","Hard coral",35.9
+"134","April_2022","EB","EB2","Macroalgae",6.5
+"135","April_2022","EB","EB2","Other",0
+"136","April_2022","EB","EB2","Other Turf",0.5
+"137","April_2022","EB","EB2","Other benthic invertebrates",0.2
+"138","April_2022","EB","EB2","Red Turf",53.9
+"139","April_2022","EB","EB2","Rubble and Rock",0
+"140","April_2022","EB","EB2","Sand",1.9
+"141","April_2022","EB","EB3","Black Turf",0
+"142","April_2022","EB","EB3","Green Turf",2.6
+"143","April_2022","EB","EB3","Hard coral",15.8
+"144","April_2022","EB","EB3","Macroalgae",8.9
+"145","April_2022","EB","EB3","Other",0
+"146","April_2022","EB","EB3","Other Turf",6.8
+"147","April_2022","EB","EB3","Other benthic invertebrates",0.5
+"148","April_2022","EB","EB3","Red Turf",11.7
+"149","April_2022","EB","EB3","Rubble and Rock",0
+"150","April_2022","EB","EB3","Sand",53.7
+"151","April_2022","EB","EB4","Black Turf",0.4
+"152","April_2022","EB","EB4","Green Turf",3.4
+"153","April_2022","EB","EB4","Hard coral",24.9
+"154","April_2022","EB","EB4","Macroalgae",25
+"155","April_2022","EB","EB4","Other",0
+"156","April_2022","EB","EB4","Other Turf",0.9
+"157","April_2022","EB","EB4","Other benthic invertebrates",0.9
+"158","April_2022","EB","EB4","Red Turf",32.4
+"159","April_2022","EB","EB4","Rubble and Rock",0.2
+"160","April_2022","EB","EB4","Sand",11.9
+"161","April_2022","EB","EB5","Black Turf",0
+"162","April_2022","EB","EB5","Green Turf",1.36363636363636
+"163","April_2022","EB","EB5","Hard coral",29.8181818181818
+"164","April_2022","EB","EB5","Macroalgae",3.09090909090909
+"165","April_2022","EB","EB5","Other",0
+"166","April_2022","EB","EB5","Other Turf",0.454545454545455
+"167","April_2022","EB","EB5","Other benthic invertebrates",0.272727272727273
+"168","April_2022","EB","EB5","Red Turf",8.18181818181818
+"169","April_2022","EB","EB5","Rubble and Rock",0
+"170","April_2022","EB","EB5","Sand",56.8181818181818
+"171","April_2022","EB","EB6","Black Turf",0.636363636363636
+"172","April_2022","EB","EB6","Green Turf",1.72727272727273
+"173","April_2022","EB","EB6","Hard coral",37.7272727272727
+"174","April_2022","EB","EB6","Macroalgae",15.3636363636364
+"175","April_2022","EB","EB6","Other",0
+"176","April_2022","EB","EB6","Other Turf",2.27272727272727
+"177","April_2022","EB","EB6","Other benthic invertebrates",0.454545454545455
+"178","April_2022","EB","EB6","Red Turf",17.1818181818182
+"179","April_2022","EB","EB6","Rubble and Rock",0
+"180","April_2022","EB","EB6","Sand",24.6363636363636
+"181","April_2022","EB","EB7","Black Turf",0.545454545454545
+"182","April_2022","EB","EB7","Green Turf",1.27272727272727
+"183","April_2022","EB","EB7","Hard coral",37.6363636363636
+"184","April_2022","EB","EB7","Macroalgae",22.0909090909091
+"185","April_2022","EB","EB7","Other",0
+"186","April_2022","EB","EB7","Other Turf",6.18181818181818
+"187","April_2022","EB","EB7","Other benthic invertebrates",2
+"188","April_2022","EB","EB7","Red Turf",17
+"189","April_2022","EB","EB7","Rubble and Rock",0
+"190","April_2022","EB","EB7","Sand",13.2727272727273
+"191","April_2022","EB","EB8","Black Turf",0.2
+"192","April_2022","EB","EB8","Green Turf",0.2
+"193","April_2022","EB","EB8","Hard coral",46.4
+"194","April_2022","EB","EB8","Macroalgae",10.5
+"195","April_2022","EB","EB8","Other",0
+"196","April_2022","EB","EB8","Other Turf",1.6
+"197","April_2022","EB","EB8","Other benthic invertebrates",0.8
+"198","April_2022","EB","EB8","Red Turf",35.9
+"199","April_2022","EB","EB8","Rubble and Rock",0.1
+"200","April_2022","EB","EB8","Sand",4.3
+"201","April_2022","EB","EB9","Black Turf",0.1
+"202","April_2022","EB","EB9","Green Turf",0.7
+"203","April_2022","EB","EB9","Hard coral",40.2
+"204","April_2022","EB","EB9","Macroalgae",18
+"205","April_2022","EB","EB9","Other",0
+"206","April_2022","EB","EB9","Other Turf",2.6
+"207","April_2022","EB","EB9","Other benthic invertebrates",0.5
+"208","April_2022","EB","EB9","Red Turf",26.3
+"209","April_2022","EB","EB9","Rubble and Rock",0
+"210","April_2022","EB","EB9","Sand",11.6
+"211","April_2022","SB","SB1","Black Turf",0
+"212","April_2022","SB","SB1","Green Turf",0
+"213","April_2022","SB","SB1","Hard coral",17.5
+"214","April_2022","SB","SB1","Macroalgae",34.7
+"215","April_2022","SB","SB1","Other",0
+"216","April_2022","SB","SB1","Other Turf",0.4
+"217","April_2022","SB","SB1","Other benthic invertebrates",0.1
+"218","April_2022","SB","SB1","Red Turf",46.5
+"219","April_2022","SB","SB1","Rubble and Rock",0.1
+"220","April_2022","SB","SB1","Sand",0.7
+"221","April_2022","SB","SB10","Black Turf",0
+"222","April_2022","SB","SB10","Green Turf",1
+"223","April_2022","SB","SB10","Hard coral",12.9
+"224","April_2022","SB","SB10","Macroalgae",15.1
+"225","April_2022","SB","SB10","Other",0
+"226","April_2022","SB","SB10","Other Turf",2.1
+"227","April_2022","SB","SB10","Other benthic invertebrates",1.1
+"228","April_2022","SB","SB10","Red Turf",24.7
+"229","April_2022","SB","SB10","Rubble and Rock",0.5
+"230","April_2022","SB","SB10","Sand",42.6
+"231","April_2022","SB","SB11","Black Turf",0
+"232","April_2022","SB","SB11","Green Turf",0.3
+"233","April_2022","SB","SB11","Hard coral",45.6
+"234","April_2022","SB","SB11","Macroalgae",8.7
+"235","April_2022","SB","SB11","Other",0
+"236","April_2022","SB","SB11","Other Turf",0.7
+"237","April_2022","SB","SB11","Other benthic invertebrates",1.5
+"238","April_2022","SB","SB11","Red Turf",28.7
+"239","April_2022","SB","SB11","Rubble and Rock",0.5
+"240","April_2022","SB","SB11","Sand",14
+"241","April_2022","SB","SB12","Black Turf",0.7
+"242","April_2022","SB","SB12","Green Turf",0.5
+"243","April_2022","SB","SB12","Hard coral",27.2
+"244","April_2022","SB","SB12","Macroalgae",16.5
+"245","April_2022","SB","SB12","Other",0
+"246","April_2022","SB","SB12","Other Turf",5.2
+"247","April_2022","SB","SB12","Other benthic invertebrates",3.9
+"248","April_2022","SB","SB12","Red Turf",32.4
+"249","April_2022","SB","SB12","Rubble and Rock",1.3
+"250","April_2022","SB","SB12","Sand",12.3
+"251","April_2022","SB","SB13","Black Turf",0.2
+"252","April_2022","SB","SB13","Green Turf",2.1
+"253","April_2022","SB","SB13","Hard coral",37.7
+"254","April_2022","SB","SB13","Macroalgae",23.7
+"255","April_2022","SB","SB13","Other",0
+"256","April_2022","SB","SB13","Other Turf",10.1
+"257","April_2022","SB","SB13","Other benthic invertebrates",0.7
+"258","April_2022","SB","SB13","Red Turf",17.9
+"259","April_2022","SB","SB13","Rubble and Rock",0.7
+"260","April_2022","SB","SB13","Sand",6.9
+"261","April_2022","SB","SB14","Black Turf",0.2
+"262","April_2022","SB","SB14","Green Turf",1.5
+"263","April_2022","SB","SB14","Hard coral",30.8
+"264","April_2022","SB","SB14","Macroalgae",34.4
+"265","April_2022","SB","SB14","Other",0
+"266","April_2022","SB","SB14","Other Turf",8.4
+"267","April_2022","SB","SB14","Other benthic invertebrates",1.3
+"268","April_2022","SB","SB14","Red Turf",18.3
+"269","April_2022","SB","SB14","Rubble and Rock",0.8
+"270","April_2022","SB","SB14","Sand",4.3
+"271","April_2022","SB","SB15","Black Turf",0.1
+"272","April_2022","SB","SB15","Green Turf",0.6
+"273","April_2022","SB","SB15","Hard coral",31.1
+"274","April_2022","SB","SB15","Macroalgae",10.8
+"275","April_2022","SB","SB15","Other",0
+"276","April_2022","SB","SB15","Other Turf",13.4
+"277","April_2022","SB","SB15","Other benthic invertebrates",0.2
+"278","April_2022","SB","SB15","Red Turf",17.7
+"279","April_2022","SB","SB15","Rubble and Rock",0.3
+"280","April_2022","SB","SB15","Sand",25.8
+"281","April_2022","SB","SB16","Black Turf",2.1
+"282","April_2022","SB","SB16","Green Turf",0.4
+"283","April_2022","SB","SB16","Hard coral",24.8
+"284","April_2022","SB","SB16","Macroalgae",11.8
+"285","April_2022","SB","SB16","Other",0
+"286","April_2022","SB","SB16","Other Turf",8.6
+"287","April_2022","SB","SB16","Other benthic invertebrates",0.3
+"288","April_2022","SB","SB16","Red Turf",19.2
+"289","April_2022","SB","SB16","Rubble and Rock",1.7
+"290","April_2022","SB","SB16","Sand",31.1
+"291","April_2022","SB","SB17","Black Turf",2.1
+"292","April_2022","SB","SB17","Green Turf",0.8
+"293","April_2022","SB","SB17","Hard coral",35.6
+"294","April_2022","SB","SB17","Macroalgae",9.8
+"295","April_2022","SB","SB17","Other",0
+"296","April_2022","SB","SB17","Other Turf",5.3
+"297","April_2022","SB","SB17","Other benthic invertebrates",0.6
+"298","April_2022","SB","SB17","Red Turf",11.9
+"299","April_2022","SB","SB17","Rubble and Rock",0.1
+"300","April_2022","SB","SB17","Sand",33.8
+"301","April_2022","SB","SB18","Black Turf",3
+"302","April_2022","SB","SB18","Green Turf",1.3
+"303","April_2022","SB","SB18","Hard coral",19
+"304","April_2022","SB","SB18","Macroalgae",14.4
+"305","April_2022","SB","SB18","Other",0
+"306","April_2022","SB","SB18","Other Turf",7.6
+"307","April_2022","SB","SB18","Other benthic invertebrates",1.1
+"308","April_2022","SB","SB18","Red Turf",25.8
+"309","April_2022","SB","SB18","Rubble and Rock",0.5
+"310","April_2022","SB","SB18","Sand",27.3
+"311","April_2022","SB","SB19","Black Turf",0.5
+"312","April_2022","SB","SB19","Green Turf",0.3
+"313","April_2022","SB","SB19","Hard coral",20.5
+"314","April_2022","SB","SB19","Macroalgae",36.8
+"315","April_2022","SB","SB19","Other",0
+"316","April_2022","SB","SB19","Other Turf",4.1
+"317","April_2022","SB","SB19","Other benthic invertebrates",0
+"318","April_2022","SB","SB19","Red Turf",7.8
+"319","April_2022","SB","SB19","Rubble and Rock",0.4
+"320","April_2022","SB","SB19","Sand",29.6
+"321","April_2022","SB","SB20","Black Turf",0.8
+"322","April_2022","SB","SB20","Green Turf",0.2
+"323","April_2022","SB","SB20","Hard coral",7.5
+"324","April_2022","SB","SB20","Macroalgae",46.1
+"325","April_2022","SB","SB20","Other",0
+"326","April_2022","SB","SB20","Other Turf",8.3
+"327","April_2022","SB","SB20","Other benthic invertebrates",0
+"328","April_2022","SB","SB20","Red Turf",2.9
+"329","April_2022","SB","SB20","Rubble and Rock",0
+"330","April_2022","SB","SB20","Sand",34.2
+"331","April_2022","SB","SB21","Black Turf",0.9
+"332","April_2022","SB","SB21","Green Turf",0
+"333","April_2022","SB","SB21","Hard coral",8.3
+"334","April_2022","SB","SB21","Macroalgae",47
+"335","April_2022","SB","SB21","Other",0
+"336","April_2022","SB","SB21","Other Turf",4.8
+"337","April_2022","SB","SB21","Other benthic invertebrates",0.8
+"338","April_2022","SB","SB21","Red Turf",13.8
+"339","April_2022","SB","SB21","Rubble and Rock",0
+"340","April_2022","SB","SB21","Sand",24.4
+"341","April_2022","SB","SB22","Black Turf",0.1
+"342","April_2022","SB","SB22","Green Turf",0.3
+"343","April_2022","SB","SB22","Hard coral",26.6
+"344","April_2022","SB","SB22","Macroalgae",18.2
+"345","April_2022","SB","SB22","Other",0
+"346","April_2022","SB","SB22","Other Turf",2.5
+"347","April_2022","SB","SB22","Other benthic invertebrates",0.1
+"348","April_2022","SB","SB22","Red Turf",2.7
+"349","April_2022","SB","SB22","Rubble and Rock",1.1
+"350","April_2022","SB","SB22","Sand",48.4
+"351","April_2022","SB","SB23","Black Turf",1.1
+"352","April_2022","SB","SB23","Green Turf",0.6
+"353","April_2022","SB","SB23","Hard coral",29.5
+"354","April_2022","SB","SB23","Macroalgae",18.1
+"355","April_2022","SB","SB23","Other",0
+"356","April_2022","SB","SB23","Other Turf",9.7
+"357","April_2022","SB","SB23","Other benthic invertebrates",2.5
+"358","April_2022","SB","SB23","Red Turf",16.5
+"359","April_2022","SB","SB23","Rubble and Rock",0.2
+"360","April_2022","SB","SB23","Sand",21.8
+"361","April_2022","SB","SB24","Black Turf",1.2
+"362","April_2022","SB","SB24","Green Turf",0.4
+"363","April_2022","SB","SB24","Hard coral",16.4
+"364","April_2022","SB","SB24","Macroalgae",25.6
+"365","April_2022","SB","SB24","Other",0
+"366","April_2022","SB","SB24","Other Turf",5.6
+"367","April_2022","SB","SB24","Other benthic invertebrates",0
+"368","April_2022","SB","SB24","Red Turf",2.8
+"369","April_2022","SB","SB24","Rubble and Rock",0.9
+"370","April_2022","SB","SB24","Sand",47.1
+"371","April_2022","SB","SB25","Black Turf",0.2
+"372","April_2022","SB","SB25","Green Turf",0.4
+"373","April_2022","SB","SB25","Hard coral",26.1
+"374","April_2022","SB","SB25","Macroalgae",14.7
+"375","April_2022","SB","SB25","Other",0
+"376","April_2022","SB","SB25","Other Turf",4
+"377","April_2022","SB","SB25","Other benthic invertebrates",0.4
+"378","April_2022","SB","SB25","Red Turf",2
+"379","April_2022","SB","SB25","Rubble and Rock",0
+"380","April_2022","SB","SB25","Sand",52.2
+"381","April_2022","SB","SB26","Black Turf",0
+"382","April_2022","SB","SB26","Green Turf",0.555555555555556
+"383","April_2022","SB","SB26","Hard coral",7
+"384","April_2022","SB","SB26","Macroalgae",19.4444444444444
+"385","April_2022","SB","SB26","Other",0
+"386","April_2022","SB","SB26","Other Turf",1.88888888888889
+"387","April_2022","SB","SB26","Other benthic invertebrates",0.444444444444444
+"388","April_2022","SB","SB26","Red Turf",8.88888888888889
+"389","April_2022","SB","SB26","Rubble and Rock",0
+"390","April_2022","SB","SB26","Sand",61.7777777777778
+"391","April_2022","SB","SB27","Black Turf",0
+"392","April_2022","SB","SB27","Green Turf",0.2
+"393","April_2022","SB","SB27","Hard coral",33.3
+"394","April_2022","SB","SB27","Macroalgae",15.6
+"395","April_2022","SB","SB27","Other",0
+"396","April_2022","SB","SB27","Other Turf",2.9
+"397","April_2022","SB","SB27","Other benthic invertebrates",1
+"398","April_2022","SB","SB27","Red Turf",34.1
+"399","April_2022","SB","SB27","Rubble and Rock",0
+"400","April_2022","SB","SB27","Sand",12.9
+"401","April_2022","SB","SB3","Black Turf",0.6
+"402","April_2022","SB","SB3","Green Turf",0.6
+"403","April_2022","SB","SB3","Hard coral",18.4
+"404","April_2022","SB","SB3","Macroalgae",10.1
+"405","April_2022","SB","SB3","Other",0
+"406","April_2022","SB","SB3","Other Turf",2.2
+"407","April_2022","SB","SB3","Other benthic invertebrates",0
+"408","April_2022","SB","SB3","Red Turf",32.4
+"409","April_2022","SB","SB3","Rubble and Rock",0.3
+"410","April_2022","SB","SB3","Sand",35.4
+"411","April_2022","SB","SB4","Black Turf",1.3
+"412","April_2022","SB","SB4","Green Turf",0.2
+"413","April_2022","SB","SB4","Hard coral",18.6
+"414","April_2022","SB","SB4","Macroalgae",17.3
+"415","April_2022","SB","SB4","Other",0
+"416","April_2022","SB","SB4","Other Turf",5.8
+"417","April_2022","SB","SB4","Other benthic invertebrates",0.6
+"418","April_2022","SB","SB4","Red Turf",38.1
+"419","April_2022","SB","SB4","Rubble and Rock",1
+"420","April_2022","SB","SB4","Sand",17.1
+"421","April_2022","SB","SB5","Black Turf",0
+"422","April_2022","SB","SB5","Green Turf",0.4
+"423","April_2022","SB","SB5","Hard coral",9.8
+"424","April_2022","SB","SB5","Macroalgae",33.2
+"425","April_2022","SB","SB5","Other",0
+"426","April_2022","SB","SB5","Other Turf",16
+"427","April_2022","SB","SB5","Other benthic invertebrates",0.2
+"428","April_2022","SB","SB5","Red Turf",15.2
+"429","April_2022","SB","SB5","Rubble and Rock",0.8
+"430","April_2022","SB","SB5","Sand",24.4
+"431","April_2022","SB","SB6","Black Turf",0
+"432","April_2022","SB","SB6","Green Turf",0.5
+"433","April_2022","SB","SB6","Hard coral",12.2
+"434","April_2022","SB","SB6","Macroalgae",23.5
+"435","April_2022","SB","SB6","Other",0
+"436","April_2022","SB","SB6","Other Turf",2.8
+"437","April_2022","SB","SB6","Other benthic invertebrates",0.1
+"438","April_2022","SB","SB6","Red Turf",11.1
+"439","April_2022","SB","SB6","Rubble and Rock",0
+"440","April_2022","SB","SB6","Sand",49.8
+"441","April_2022","SB","SB8","Black Turf",0.2
+"442","April_2022","SB","SB8","Green Turf",0.5
+"443","April_2022","SB","SB8","Hard coral",9.5
+"444","April_2022","SB","SB8","Macroalgae",16.4
+"445","April_2022","SB","SB8","Other",0
+"446","April_2022","SB","SB8","Other Turf",17.4
+"447","April_2022","SB","SB8","Other benthic invertebrates",0.9
+"448","April_2022","SB","SB8","Red Turf",20.8
+"449","April_2022","SB","SB8","Rubble and Rock",0.4
+"450","April_2022","SB","SB8","Sand",33.9
+"451","April_2022","SB","SB9","Black Turf",0
+"452","April_2022","SB","SB9","Green Turf",0
+"453","April_2022","SB","SB9","Hard coral",0
+"454","April_2022","SB","SB9","Macroalgae",0.181818181818182
+"455","April_2022","SB","SB9","Other",0
+"456","April_2022","SB","SB9","Other Turf",0
+"457","April_2022","SB","SB9","Other benthic invertebrates",0
+"458","April_2022","SB","SB9","Red Turf",0
+"459","April_2022","SB","SB9","Rubble and Rock",0
+"460","April_2022","SB","SB9","Sand",99.8181818181818
+"461","Dec_2020","EB","EB01","Black Turf",36.7
+"462","Dec_2020","EB","EB01","Green Turf",2
+"463","Dec_2020","EB","EB01","Hard coral",21.8
+"464","Dec_2020","EB","EB01","Macroalgae",14.6
+"465","Dec_2020","EB","EB01","Other",0
+"466","Dec_2020","EB","EB01","Other Turf",5.4
+"467","Dec_2020","EB","EB01","Other benthic invertebrates",0.7
+"468","Dec_2020","EB","EB01","Red Turf",0
+"469","Dec_2020","EB","EB01","Rubble and Rock",2.1
+"470","Dec_2020","EB","EB01","Sand",16.7
+"471","Dec_2020","EB","EB010","Black Turf",10.5
+"472","Dec_2020","EB","EB010","Green Turf",1.2
+"473","Dec_2020","EB","EB010","Hard coral",41.4
+"474","Dec_2020","EB","EB010","Macroalgae",25
+"475","Dec_2020","EB","EB010","Other",0
+"476","Dec_2020","EB","EB010","Other Turf",10.3
+"477","Dec_2020","EB","EB010","Other benthic invertebrates",0.4
+"478","Dec_2020","EB","EB010","Red Turf",0
+"479","Dec_2020","EB","EB010","Rubble and Rock",0.7
+"480","Dec_2020","EB","EB010","Sand",10.5
+"481","Dec_2020","EB","EB011","Black Turf",32.4
+"482","Dec_2020","EB","EB011","Green Turf",1.1
+"483","Dec_2020","EB","EB011","Hard coral",17.5
+"484","Dec_2020","EB","EB011","Macroalgae",24.6
+"485","Dec_2020","EB","EB011","Other",0
+"486","Dec_2020","EB","EB011","Other Turf",9
+"487","Dec_2020","EB","EB011","Other benthic invertebrates",0.3
+"488","Dec_2020","EB","EB011","Red Turf",0.4
+"489","Dec_2020","EB","EB011","Rubble and Rock",1.1
+"490","Dec_2020","EB","EB011","Sand",13.6
+"491","Dec_2020","EB","EB012","Black Turf",9.1
+"492","Dec_2020","EB","EB012","Green Turf",1.7
+"493","Dec_2020","EB","EB012","Hard coral",47.7
+"494","Dec_2020","EB","EB012","Macroalgae",12.7
+"495","Dec_2020","EB","EB012","Other",0
+"496","Dec_2020","EB","EB012","Other Turf",12.4
+"497","Dec_2020","EB","EB012","Other benthic invertebrates",1.4
+"498","Dec_2020","EB","EB012","Red Turf",1
+"499","Dec_2020","EB","EB012","Rubble and Rock",2.5
+"500","Dec_2020","EB","EB012","Sand",11.5
+"501","Dec_2020","EB","EB013","Black Turf",0.2
+"502","Dec_2020","EB","EB013","Green Turf",0.4
+"503","Dec_2020","EB","EB013","Hard coral",37.7
+"504","Dec_2020","EB","EB013","Macroalgae",15.7
+"505","Dec_2020","EB","EB013","Other",0
+"506","Dec_2020","EB","EB013","Other Turf",7.1
+"507","Dec_2020","EB","EB013","Other benthic invertebrates",2.6
+"508","Dec_2020","EB","EB013","Red Turf",0
+"509","Dec_2020","EB","EB013","Rubble and Rock",3.7
+"510","Dec_2020","EB","EB013","Sand",32.6
+"511","Dec_2020","EB","EB014","Black Turf",12.7
+"512","Dec_2020","EB","EB014","Green Turf",0
+"513","Dec_2020","EB","EB014","Hard coral",18.8
+"514","Dec_2020","EB","EB014","Macroalgae",25
+"515","Dec_2020","EB","EB014","Other",0
+"516","Dec_2020","EB","EB014","Other Turf",5.9
+"517","Dec_2020","EB","EB014","Other benthic invertebrates",0.8
+"518","Dec_2020","EB","EB014","Red Turf",0.3
+"519","Dec_2020","EB","EB014","Rubble and Rock",0.5
+"520","Dec_2020","EB","EB014","Sand",36
+"521","Dec_2020","EB","EB015","Black Turf",13.3
+"522","Dec_2020","EB","EB015","Green Turf",2
+"523","Dec_2020","EB","EB015","Hard coral",36.3
+"524","Dec_2020","EB","EB015","Macroalgae",17
+"525","Dec_2020","EB","EB015","Other",0
+"526","Dec_2020","EB","EB015","Other Turf",9.5
+"527","Dec_2020","EB","EB015","Other benthic invertebrates",0.4
+"528","Dec_2020","EB","EB015","Red Turf",1.2
+"529","Dec_2020","EB","EB015","Rubble and Rock",1.3
+"530","Dec_2020","EB","EB015","Sand",19
+"531","Dec_2020","EB","EB02","Black Turf",25.1
+"532","Dec_2020","EB","EB02","Green Turf",1.3
+"533","Dec_2020","EB","EB02","Hard coral",38
+"534","Dec_2020","EB","EB02","Macroalgae",16.7
+"535","Dec_2020","EB","EB02","Other",0.1
+"536","Dec_2020","EB","EB02","Other Turf",6.3
+"537","Dec_2020","EB","EB02","Other benthic invertebrates",0
+"538","Dec_2020","EB","EB02","Red Turf",0.1
+"539","Dec_2020","EB","EB02","Rubble and Rock",0.9
+"540","Dec_2020","EB","EB02","Sand",11.5
+"541","Dec_2020","EB","EB03","Black Turf",19
+"542","Dec_2020","EB","EB03","Green Turf",0.9
+"543","Dec_2020","EB","EB03","Hard coral",29.1
+"544","Dec_2020","EB","EB03","Macroalgae",29.4
+"545","Dec_2020","EB","EB03","Other",0
+"546","Dec_2020","EB","EB03","Other Turf",10.6
+"547","Dec_2020","EB","EB03","Other benthic invertebrates",0.3
+"548","Dec_2020","EB","EB03","Red Turf",0.2
+"549","Dec_2020","EB","EB03","Rubble and Rock",0
+"550","Dec_2020","EB","EB03","Sand",10.5
+"551","Dec_2020","EB","EB04","Black Turf",11.4
+"552","Dec_2020","EB","EB04","Green Turf",3
+"553","Dec_2020","EB","EB04","Hard coral",32.2
+"554","Dec_2020","EB","EB04","Macroalgae",19.1
+"555","Dec_2020","EB","EB04","Other",0
+"556","Dec_2020","EB","EB04","Other Turf",10.2
+"557","Dec_2020","EB","EB04","Other benthic invertebrates",2
+"558","Dec_2020","EB","EB04","Red Turf",0.2
+"559","Dec_2020","EB","EB04","Rubble and Rock",0.5
+"560","Dec_2020","EB","EB04","Sand",21.4
+"561","Dec_2020","EB","EB05","Black Turf",15.9
+"562","Dec_2020","EB","EB05","Green Turf",4.1
+"563","Dec_2020","EB","EB05","Hard coral",34
+"564","Dec_2020","EB","EB05","Macroalgae",13.8
+"565","Dec_2020","EB","EB05","Other",0
+"566","Dec_2020","EB","EB05","Other Turf",7.9
+"567","Dec_2020","EB","EB05","Other benthic invertebrates",0.8
+"568","Dec_2020","EB","EB05","Red Turf",0.1
+"569","Dec_2020","EB","EB05","Rubble and Rock",0.9
+"570","Dec_2020","EB","EB05","Sand",22.5
+"571","Dec_2020","EB","EB06","Black Turf",12.6
+"572","Dec_2020","EB","EB06","Green Turf",1.5
+"573","Dec_2020","EB","EB06","Hard coral",11.8
+"574","Dec_2020","EB","EB06","Macroalgae",15.5
+"575","Dec_2020","EB","EB06","Other",0
+"576","Dec_2020","EB","EB06","Other Turf",6.9
+"577","Dec_2020","EB","EB06","Other benthic invertebrates",3
+"578","Dec_2020","EB","EB06","Red Turf",0
+"579","Dec_2020","EB","EB06","Rubble and Rock",1.1
+"580","Dec_2020","EB","EB06","Sand",47.6
+"581","Dec_2020","EB","EB07","Black Turf",8.6
+"582","Dec_2020","EB","EB07","Green Turf",1.1
+"583","Dec_2020","EB","EB07","Hard coral",35.1
+"584","Dec_2020","EB","EB07","Macroalgae",11.3
+"585","Dec_2020","EB","EB07","Other",0
+"586","Dec_2020","EB","EB07","Other Turf",8.6
+"587","Dec_2020","EB","EB07","Other benthic invertebrates",0
+"588","Dec_2020","EB","EB07","Red Turf",0
+"589","Dec_2020","EB","EB07","Rubble and Rock",1.1
+"590","Dec_2020","EB","EB07","Sand",34.2
+"591","Dec_2020","EB","EB08","Black Turf",3.4
+"592","Dec_2020","EB","EB08","Green Turf",2.2
+"593","Dec_2020","EB","EB08","Hard coral",71.4
+"594","Dec_2020","EB","EB08","Macroalgae",10.8
+"595","Dec_2020","EB","EB08","Other",0
+"596","Dec_2020","EB","EB08","Other Turf",7.6
+"597","Dec_2020","EB","EB08","Other benthic invertebrates",0.2
+"598","Dec_2020","EB","EB08","Red Turf",0
+"599","Dec_2020","EB","EB08","Rubble and Rock",0.4
+"600","Dec_2020","EB","EB08","Sand",4
+"601","Dec_2020","EB","EB09","Black Turf",1.7
+"602","Dec_2020","EB","EB09","Green Turf",0.1
+"603","Dec_2020","EB","EB09","Hard coral",49.2
+"604","Dec_2020","EB","EB09","Macroalgae",12.9
+"605","Dec_2020","EB","EB09","Other",0
+"606","Dec_2020","EB","EB09","Other Turf",5.9
+"607","Dec_2020","EB","EB09","Other benthic invertebrates",3.8
+"608","Dec_2020","EB","EB09","Red Turf",0
+"609","Dec_2020","EB","EB09","Rubble and Rock",1.2
+"610","Dec_2020","EB","EB09","Sand",25.2
+"611","Dec_2020","SB","SB01","Black Turf",6.9
+"612","Dec_2020","SB","SB01","Green Turf",0.3
+"613","Dec_2020","SB","SB01","Hard coral",28.2
+"614","Dec_2020","SB","SB01","Macroalgae",24.5
+"615","Dec_2020","SB","SB01","Other",0
+"616","Dec_2020","SB","SB01","Other Turf",3.4
+"617","Dec_2020","SB","SB01","Other benthic invertebrates",0
+"618","Dec_2020","SB","SB01","Red Turf",0.2
+"619","Dec_2020","SB","SB01","Rubble and Rock",0.1
+"620","Dec_2020","SB","SB01","Sand",36.4
+"621","Dec_2020","SB","SB02","Black Turf",26.3
+"622","Dec_2020","SB","SB02","Green Turf",0.9
+"623","Dec_2020","SB","SB02","Hard coral",25.6
+"624","Dec_2020","SB","SB02","Macroalgae",12.8
+"625","Dec_2020","SB","SB02","Other",0
+"626","Dec_2020","SB","SB02","Other Turf",2.7
+"627","Dec_2020","SB","SB02","Other benthic invertebrates",0.1
+"628","Dec_2020","SB","SB02","Red Turf",1
+"629","Dec_2020","SB","SB02","Rubble and Rock",0.1
+"630","Dec_2020","SB","SB02","Sand",30.5
+"631","Dec_2020","SB","SB03","Black Turf",27.4
+"632","Dec_2020","SB","SB03","Green Turf",2.1
+"633","Dec_2020","SB","SB03","Hard coral",45.9
+"634","Dec_2020","SB","SB03","Macroalgae",6.9
+"635","Dec_2020","SB","SB03","Other",0
+"636","Dec_2020","SB","SB03","Other Turf",2.3
+"637","Dec_2020","SB","SB03","Other benthic invertebrates",0
+"638","Dec_2020","SB","SB03","Red Turf",0.3
+"639","Dec_2020","SB","SB03","Rubble and Rock",0.4
+"640","Dec_2020","SB","SB03","Sand",14.7
+"641","Dec_2020","SB","SB04","Black Turf",27.9
+"642","Dec_2020","SB","SB04","Green Turf",2.3
+"643","Dec_2020","SB","SB04","Hard coral",50.8
+"644","Dec_2020","SB","SB04","Macroalgae",7.9
+"645","Dec_2020","SB","SB04","Other",0
+"646","Dec_2020","SB","SB04","Other Turf",3.2
+"647","Dec_2020","SB","SB04","Other benthic invertebrates",0.1
+"648","Dec_2020","SB","SB04","Red Turf",0.1
+"649","Dec_2020","SB","SB04","Rubble and Rock",0
+"650","Dec_2020","SB","SB04","Sand",7.7
+"651","Dec_2020","SB","SB05","Black Turf",26.8
+"652","Dec_2020","SB","SB05","Green Turf",1.6
+"653","Dec_2020","SB","SB05","Hard coral",46
+"654","Dec_2020","SB","SB05","Macroalgae",12
+"655","Dec_2020","SB","SB05","Other",0
+"656","Dec_2020","SB","SB05","Other Turf",4.1
+"657","Dec_2020","SB","SB05","Other benthic invertebrates",0.1
+"658","Dec_2020","SB","SB05","Red Turf",1.4
+"659","Dec_2020","SB","SB05","Rubble and Rock",0.4
+"660","Dec_2020","SB","SB05","Sand",7.6
+"661","Dec_2020","SB","SB06","Black Turf",12.4
+"662","Dec_2020","SB","SB06","Green Turf",1
+"663","Dec_2020","SB","SB06","Hard coral",24.2
+"664","Dec_2020","SB","SB06","Macroalgae",18.6
+"665","Dec_2020","SB","SB06","Other",0
+"666","Dec_2020","SB","SB06","Other Turf",17.7
+"667","Dec_2020","SB","SB06","Other benthic invertebrates",0
+"668","Dec_2020","SB","SB06","Red Turf",10.5
+"669","Dec_2020","SB","SB06","Rubble and Rock",3.6
+"670","Dec_2020","SB","SB06","Sand",12
+"671","Dec_2020","SB","SB07","Black Turf",20.9
+"672","Dec_2020","SB","SB07","Green Turf",2.9
+"673","Dec_2020","SB","SB07","Hard coral",26.2
+"674","Dec_2020","SB","SB07","Macroalgae",18.4
+"675","Dec_2020","SB","SB07","Other",0
+"676","Dec_2020","SB","SB07","Other Turf",7.2
+"677","Dec_2020","SB","SB07","Other benthic invertebrates",0
+"678","Dec_2020","SB","SB07","Red Turf",2.9
+"679","Dec_2020","SB","SB07","Rubble and Rock",1.2
+"680","Dec_2020","SB","SB07","Sand",20.3
+"681","Dec_2020","SB","SB08","Black Turf",26.3
+"682","Dec_2020","SB","SB08","Green Turf",1.8
+"683","Dec_2020","SB","SB08","Hard coral",31.6
+"684","Dec_2020","SB","SB08","Macroalgae",15.2
+"685","Dec_2020","SB","SB08","Other",0
+"686","Dec_2020","SB","SB08","Other Turf",9.1
+"687","Dec_2020","SB","SB08","Other benthic invertebrates",0
+"688","Dec_2020","SB","SB08","Red Turf",1.5
+"689","Dec_2020","SB","SB08","Rubble and Rock",0.6
+"690","Dec_2020","SB","SB08","Sand",13.9
+"691","Dec_2020","SB","SB09","Black Turf",5
+"692","Dec_2020","SB","SB09","Green Turf",1.2
+"693","Dec_2020","SB","SB09","Hard coral",17.7
+"694","Dec_2020","SB","SB09","Macroalgae",20.7
+"695","Dec_2020","SB","SB09","Other",0
+"696","Dec_2020","SB","SB09","Other Turf",24.2
+"697","Dec_2020","SB","SB09","Other benthic invertebrates",0
+"698","Dec_2020","SB","SB09","Red Turf",0.3
+"699","Dec_2020","SB","SB09","Rubble and Rock",0.2
+"700","Dec_2020","SB","SB09","Sand",30.7
+"701","Dec_2020","SB","SB10","Black Turf",10.6
+"702","Dec_2020","SB","SB10","Green Turf",0.6
+"703","Dec_2020","SB","SB10","Hard coral",34.2
+"704","Dec_2020","SB","SB10","Macroalgae",32.2
+"705","Dec_2020","SB","SB10","Other",0
+"706","Dec_2020","SB","SB10","Other Turf",9.5
+"707","Dec_2020","SB","SB10","Other benthic invertebrates",0
+"708","Dec_2020","SB","SB10","Red Turf",1.7
+"709","Dec_2020","SB","SB10","Rubble and Rock",4.9
+"710","Dec_2020","SB","SB10","Sand",6.3
+"711","Dec_2020","SB","SB11","Black Turf",21.4
+"712","Dec_2020","SB","SB11","Green Turf",1
+"713","Dec_2020","SB","SB11","Hard coral",16.8
+"714","Dec_2020","SB","SB11","Macroalgae",7.3
+"715","Dec_2020","SB","SB11","Other",0
+"716","Dec_2020","SB","SB11","Other Turf",13.4
+"717","Dec_2020","SB","SB11","Other benthic invertebrates",0.3
+"718","Dec_2020","SB","SB11","Red Turf",0.1
+"719","Dec_2020","SB","SB11","Rubble and Rock",4.2
+"720","Dec_2020","SB","SB11","Sand",35.5
+"721","Dec_2020","SB","SB12","Black Turf",17
+"722","Dec_2020","SB","SB12","Green Turf",0.9
+"723","Dec_2020","SB","SB12","Hard coral",21
+"724","Dec_2020","SB","SB12","Macroalgae",11.2
+"725","Dec_2020","SB","SB12","Other",0
+"726","Dec_2020","SB","SB12","Other Turf",12.1
+"727","Dec_2020","SB","SB12","Other benthic invertebrates",0.4
+"728","Dec_2020","SB","SB12","Red Turf",0.6
+"729","Dec_2020","SB","SB12","Rubble and Rock",3.5
+"730","Dec_2020","SB","SB12","Sand",33.3
+"731","Dec_2020","SB","SB13","Black Turf",24.9
+"732","Dec_2020","SB","SB13","Green Turf",0.7
+"733","Dec_2020","SB","SB13","Hard coral",26.6
+"734","Dec_2020","SB","SB13","Macroalgae",11.7
+"735","Dec_2020","SB","SB13","Other",0
+"736","Dec_2020","SB","SB13","Other Turf",4.6
+"737","Dec_2020","SB","SB13","Other benthic invertebrates",0.2
+"738","Dec_2020","SB","SB13","Red Turf",1.3
+"739","Dec_2020","SB","SB13","Rubble and Rock",1.2
+"740","Dec_2020","SB","SB13","Sand",28.8
+"741","Dec_2020","SB","SB14","Black Turf",9.2
+"742","Dec_2020","SB","SB14","Green Turf",0
+"743","Dec_2020","SB","SB14","Hard coral",20.7
+"744","Dec_2020","SB","SB14","Macroalgae",7.5
+"745","Dec_2020","SB","SB14","Other",0
+"746","Dec_2020","SB","SB14","Other Turf",4.6
+"747","Dec_2020","SB","SB14","Other benthic invertebrates",0
+"748","Dec_2020","SB","SB14","Red Turf",0.4
+"749","Dec_2020","SB","SB14","Rubble and Rock",1.5
+"750","Dec_2020","SB","SB14","Sand",56.1
+"751","Dec_2020","SB","SB15","Black Turf",6
+"752","Dec_2020","SB","SB15","Green Turf",0.2
+"753","Dec_2020","SB","SB15","Hard coral",27.2
+"754","Dec_2020","SB","SB15","Macroalgae",14.4
+"755","Dec_2020","SB","SB15","Other",0
+"756","Dec_2020","SB","SB15","Other Turf",6.3
+"757","Dec_2020","SB","SB15","Other benthic invertebrates",0
+"758","Dec_2020","SB","SB15","Red Turf",0.4
+"759","Dec_2020","SB","SB15","Rubble and Rock",0.8
+"760","Dec_2020","SB","SB15","Sand",44.7
+"761","Dec_2020","SB","SB16","Black Turf",37.3
+"762","Dec_2020","SB","SB16","Green Turf",1.3
+"763","Dec_2020","SB","SB16","Hard coral",15.8
+"764","Dec_2020","SB","SB16","Macroalgae",21.4
+"765","Dec_2020","SB","SB16","Other",0
+"766","Dec_2020","SB","SB16","Other Turf",3
+"767","Dec_2020","SB","SB16","Other benthic invertebrates",0
+"768","Dec_2020","SB","SB16","Red Turf",0.7
+"769","Dec_2020","SB","SB16","Rubble and Rock",0.6
+"770","Dec_2020","SB","SB16","Sand",19.9
+"771","Dec_2020","SB","SB17","Black Turf",9
+"772","Dec_2020","SB","SB17","Green Turf",0.1
+"773","Dec_2020","SB","SB17","Hard coral",4.5
+"774","Dec_2020","SB","SB17","Macroalgae",21.9
+"775","Dec_2020","SB","SB17","Other",0
+"776","Dec_2020","SB","SB17","Other Turf",23.7
+"777","Dec_2020","SB","SB17","Other benthic invertebrates",0.8
+"778","Dec_2020","SB","SB17","Red Turf",1.6
+"779","Dec_2020","SB","SB17","Rubble and Rock",1.4
+"780","Dec_2020","SB","SB17","Sand",37
+"781","Dec_2020","SB","SB18","Black Turf",13.8
+"782","Dec_2020","SB","SB18","Green Turf",0.3
+"783","Dec_2020","SB","SB18","Hard coral",0
+"784","Dec_2020","SB","SB18","Macroalgae",18
+"785","Dec_2020","SB","SB18","Other",0
+"786","Dec_2020","SB","SB18","Other Turf",15.2
+"787","Dec_2020","SB","SB18","Other benthic invertebrates",0
+"788","Dec_2020","SB","SB18","Red Turf",1.5
+"789","Dec_2020","SB","SB18","Rubble and Rock",0.9
+"790","Dec_2020","SB","SB18","Sand",50.3
+"791","Dec_2020","SB","SB19","Black Turf",20.3
+"792","Dec_2020","SB","SB19","Green Turf",0.7
+"793","Dec_2020","SB","SB19","Hard coral",18.3
+"794","Dec_2020","SB","SB19","Macroalgae",15.1
+"795","Dec_2020","SB","SB19","Other",0
+"796","Dec_2020","SB","SB19","Other Turf",5.2
+"797","Dec_2020","SB","SB19","Other benthic invertebrates",1.1
+"798","Dec_2020","SB","SB19","Red Turf",0.7
+"799","Dec_2020","SB","SB19","Rubble and Rock",1.2
+"800","Dec_2020","SB","SB19","Sand",37.4
+"801","Dec_2020","SB","SB20","Black Turf",12.2
+"802","Dec_2020","SB","SB20","Green Turf",0.6
+"803","Dec_2020","SB","SB20","Hard coral",24
+"804","Dec_2020","SB","SB20","Macroalgae",3.5
+"805","Dec_2020","SB","SB20","Other",0
+"806","Dec_2020","SB","SB20","Other Turf",13
+"807","Dec_2020","SB","SB20","Other benthic invertebrates",0.2
+"808","Dec_2020","SB","SB20","Red Turf",0.1
+"809","Dec_2020","SB","SB20","Rubble and Rock",1.4
+"810","Dec_2020","SB","SB20","Sand",45
+"811","Dec_2022","CE","EM1","Black Turf",0.7
+"812","Dec_2022","CE","EM1","Green Turf",0.4
+"813","Dec_2022","CE","EM1","Hard coral",56.3
+"814","Dec_2022","CE","EM1","Macroalgae",25.9
+"815","Dec_2022","CE","EM1","Other",0
+"816","Dec_2022","CE","EM1","Other Turf",5
+"817","Dec_2022","CE","EM1","Other benthic invertebrates",0.2
+"818","Dec_2022","CE","EM1","Red Turf",0.6
+"819","Dec_2022","CE","EM1","Rubble and Rock",0.9
+"820","Dec_2022","CE","EM1","Sand",10
+"821","Dec_2022","CE","EM2","Black Turf",0.3
+"822","Dec_2022","CE","EM2","Green Turf",0
+"823","Dec_2022","CE","EM2","Hard coral",17.4
+"824","Dec_2022","CE","EM2","Macroalgae",37.2
+"825","Dec_2022","CE","EM2","Other",0
+"826","Dec_2022","CE","EM2","Other Turf",3.6
+"827","Dec_2022","CE","EM2","Other benthic invertebrates",1.9
+"828","Dec_2022","CE","EM2","Red Turf",0.3
+"829","Dec_2022","CE","EM2","Rubble and Rock",4.2
+"830","Dec_2022","CE","EM2","Sand",35.1
+"831","Dec_2022","CE","EM3","Black Turf",3.8
+"832","Dec_2022","CE","EM3","Green Turf",0
+"833","Dec_2022","CE","EM3","Hard coral",42.6
+"834","Dec_2022","CE","EM3","Macroalgae",18.7
+"835","Dec_2022","CE","EM3","Other",0
+"836","Dec_2022","CE","EM3","Other Turf",3.8
+"837","Dec_2022","CE","EM3","Other benthic invertebrates",0.1
+"838","Dec_2022","CE","EM3","Red Turf",0.2
+"839","Dec_2022","CE","EM3","Rubble and Rock",1.6
+"840","Dec_2022","CE","EM3","Sand",29.2
+"841","Dec_2022","CE","EM4","Black Turf",1.9
+"842","Dec_2022","CE","EM4","Green Turf",0.1
+"843","Dec_2022","CE","EM4","Hard coral",51.8
+"844","Dec_2022","CE","EM4","Macroalgae",20.4
+"845","Dec_2022","CE","EM4","Other",0
+"846","Dec_2022","CE","EM4","Other Turf",7.7
+"847","Dec_2022","CE","EM4","Other benthic invertebrates",1.2
+"848","Dec_2022","CE","EM4","Red Turf",1.1
+"849","Dec_2022","CE","EM4","Rubble and Rock",0.3
+"850","Dec_2022","CE","EM4","Sand",15.5
+"851","Dec_2022","CE","EM5","Black Turf",3.5
+"852","Dec_2022","CE","EM5","Green Turf",0.4
+"853","Dec_2022","CE","EM5","Hard coral",39.2
+"854","Dec_2022","CE","EM5","Macroalgae",24.4
+"855","Dec_2022","CE","EM5","Other",0
+"856","Dec_2022","CE","EM5","Other Turf",5.7
+"857","Dec_2022","CE","EM5","Other benthic invertebrates",0.7
+"858","Dec_2022","CE","EM5","Red Turf",0.5
+"859","Dec_2022","CE","EM5","Rubble and Rock",3.7
+"860","Dec_2022","CE","EM5","Sand",21.9
+"861","Dec_2022","CE","EM6","Black Turf",0.9
+"862","Dec_2022","CE","EM6","Green Turf",0.1
+"863","Dec_2022","CE","EM6","Hard coral",36.1
+"864","Dec_2022","CE","EM6","Macroalgae",21.3
+"865","Dec_2022","CE","EM6","Other",0
+"866","Dec_2022","CE","EM6","Other Turf",6
+"867","Dec_2022","CE","EM6","Other benthic invertebrates",4.4
+"868","Dec_2022","CE","EM6","Red Turf",0
+"869","Dec_2022","CE","EM6","Rubble and Rock",3.5
+"870","Dec_2022","CE","EM6","Sand",27.7
+"871","Dec_2022","CE","EM7","Black Turf",8
+"872","Dec_2022","CE","EM7","Green Turf",0.6
+"873","Dec_2022","CE","EM7","Hard coral",41.7
+"874","Dec_2022","CE","EM7","Macroalgae",18.3
+"875","Dec_2022","CE","EM7","Other",0
+"876","Dec_2022","CE","EM7","Other Turf",4.8
+"877","Dec_2022","CE","EM7","Other benthic invertebrates",0.2
+"878","Dec_2022","CE","EM7","Red Turf",0
+"879","Dec_2022","CE","EM7","Rubble and Rock",1.9
+"880","Dec_2022","CE","EM7","Sand",24.5
+"881","Dec_2022","CE","EM8","Black Turf",1.1
+"882","Dec_2022","CE","EM8","Green Turf",1.2
+"883","Dec_2022","CE","EM8","Hard coral",17
+"884","Dec_2022","CE","EM8","Macroalgae",22.3
+"885","Dec_2022","CE","EM8","Other",0
+"886","Dec_2022","CE","EM8","Other Turf",5
+"887","Dec_2022","CE","EM8","Other benthic invertebrates",3.4
+"888","Dec_2022","CE","EM8","Red Turf",0
+"889","Dec_2022","CE","EM8","Rubble and Rock",7.1
+"890","Dec_2022","CE","EM8","Sand",42.9
+"891","Dec_2022","EB","EB1","Black Turf",9.9
+"892","Dec_2022","EB","EB1","Green Turf",0.6
+"893","Dec_2022","EB","EB1","Hard coral",39.8
+"894","Dec_2022","EB","EB1","Macroalgae",22.6
+"895","Dec_2022","EB","EB1","Other",0
+"896","Dec_2022","EB","EB1","Other Turf",6.9
+"897","Dec_2022","EB","EB1","Other benthic invertebrates",0.4
+"898","Dec_2022","EB","EB1","Red Turf",0
+"899","Dec_2022","EB","EB1","Rubble and Rock",0
+"900","Dec_2022","EB","EB1","Sand",19.8
+"901","Dec_2022","EB","EB10","Black Turf",9.5
+"902","Dec_2022","EB","EB10","Green Turf",1
+"903","Dec_2022","EB","EB10","Hard coral",34.3
+"904","Dec_2022","EB","EB10","Macroalgae",31.8
+"905","Dec_2022","EB","EB10","Other",0
+"906","Dec_2022","EB","EB10","Other Turf",4.1
+"907","Dec_2022","EB","EB10","Other benthic invertebrates",0.2
+"908","Dec_2022","EB","EB10","Red Turf",0
+"909","Dec_2022","EB","EB10","Rubble and Rock",1.6
+"910","Dec_2022","EB","EB10","Sand",17.5
+"911","Dec_2022","EB","EB11","Black Turf",5
+"912","Dec_2022","EB","EB11","Green Turf",0.2
+"913","Dec_2022","EB","EB11","Hard coral",57.3
+"914","Dec_2022","EB","EB11","Macroalgae",9.8
+"915","Dec_2022","EB","EB11","Other",0
+"916","Dec_2022","EB","EB11","Other Turf",4.9
+"917","Dec_2022","EB","EB11","Other benthic invertebrates",0.8
+"918","Dec_2022","EB","EB11","Red Turf",0
+"919","Dec_2022","EB","EB11","Rubble and Rock",3.1
+"920","Dec_2022","EB","EB11","Sand",18.9
+"921","Dec_2022","EB","EB12","Black Turf",3.3
+"922","Dec_2022","EB","EB12","Green Turf",0.3
+"923","Dec_2022","EB","EB12","Hard coral",56.5
+"924","Dec_2022","EB","EB12","Macroalgae",18.1
+"925","Dec_2022","EB","EB12","Other",0
+"926","Dec_2022","EB","EB12","Other Turf",2.8
+"927","Dec_2022","EB","EB12","Other benthic invertebrates",0.8
+"928","Dec_2022","EB","EB12","Red Turf",0
+"929","Dec_2022","EB","EB12","Rubble and Rock",0.2
+"930","Dec_2022","EB","EB12","Sand",18
+"931","Dec_2022","EB","EB13","Black Turf",8.66666666666667
+"932","Dec_2022","EB","EB13","Green Turf",0
+"933","Dec_2022","EB","EB13","Hard coral",0
+"934","Dec_2022","EB","EB13","Macroalgae",25.2222222222222
+"935","Dec_2022","EB","EB13","Other",0
+"936","Dec_2022","EB","EB13","Other Turf",9.44444444444444
+"937","Dec_2022","EB","EB13","Other benthic invertebrates",0
+"938","Dec_2022","EB","EB13","Red Turf",0
+"939","Dec_2022","EB","EB13","Rubble and Rock",5.22222222222222
+"940","Dec_2022","EB","EB13","Sand",51.4444444444444
+"941","Dec_2022","EB","EB14","Black Turf",0.6
+"942","Dec_2022","EB","EB14","Green Turf",0.3
+"943","Dec_2022","EB","EB14","Hard coral",17.5
+"944","Dec_2022","EB","EB14","Macroalgae",26.5
+"945","Dec_2022","EB","EB14","Other",0
+"946","Dec_2022","EB","EB14","Other Turf",3.5
+"947","Dec_2022","EB","EB14","Other benthic invertebrates",0
+"948","Dec_2022","EB","EB14","Red Turf",0
+"949","Dec_2022","EB","EB14","Rubble and Rock",0
+"950","Dec_2022","EB","EB14","Sand",51.6
+"951","Dec_2022","EB","EB15","Black Turf",0.8
+"952","Dec_2022","EB","EB15","Green Turf",0.1
+"953","Dec_2022","EB","EB15","Hard coral",14.5
+"954","Dec_2022","EB","EB15","Macroalgae",12.4
+"955","Dec_2022","EB","EB15","Other",0
+"956","Dec_2022","EB","EB15","Other Turf",1.1
+"957","Dec_2022","EB","EB15","Other benthic invertebrates",0
+"958","Dec_2022","EB","EB15","Red Turf",0
+"959","Dec_2022","EB","EB15","Rubble and Rock",0
+"960","Dec_2022","EB","EB15","Sand",71.1
+"961","Dec_2022","EB","EB16","Black Turf",15.6
+"962","Dec_2022","EB","EB16","Green Turf",1.1
+"963","Dec_2022","EB","EB16","Hard coral",22.8
+"964","Dec_2022","EB","EB16","Macroalgae",29.6
+"965","Dec_2022","EB","EB16","Other",0
+"966","Dec_2022","EB","EB16","Other Turf",13.4
+"967","Dec_2022","EB","EB16","Other benthic invertebrates",0
+"968","Dec_2022","EB","EB16","Red Turf",0
+"969","Dec_2022","EB","EB16","Rubble and Rock",0
+"970","Dec_2022","EB","EB16","Sand",17.5
+"971","Dec_2022","EB","EB17","Black Turf",19.7777777777778
+"972","Dec_2022","EB","EB17","Green Turf",0.444444444444444
+"973","Dec_2022","EB","EB17","Hard coral",18.8888888888889
+"974","Dec_2022","EB","EB17","Macroalgae",27
+"975","Dec_2022","EB","EB17","Other",0
+"976","Dec_2022","EB","EB17","Other Turf",3.88888888888889
+"977","Dec_2022","EB","EB17","Other benthic invertebrates",0.333333333333333
+"978","Dec_2022","EB","EB17","Red Turf",0.111111111111111
+"979","Dec_2022","EB","EB17","Rubble and Rock",3.11111111111111
+"980","Dec_2022","EB","EB17","Sand",26.4444444444444
+"981","Dec_2022","EB","EB18","Black Turf",8.11111111111111
+"982","Dec_2022","EB","EB18","Green Turf",0.777777777777778
+"983","Dec_2022","EB","EB18","Hard coral",34.5555555555556
+"984","Dec_2022","EB","EB18","Macroalgae",26.6666666666667
+"985","Dec_2022","EB","EB18","Other",0
+"986","Dec_2022","EB","EB18","Other Turf",14.7777777777778
+"987","Dec_2022","EB","EB18","Other benthic invertebrates",0.111111111111111
+"988","Dec_2022","EB","EB18","Red Turf",0
+"989","Dec_2022","EB","EB18","Rubble and Rock",1.33333333333333
+"990","Dec_2022","EB","EB18","Sand",13.6666666666667
+"991","Dec_2022","EB","EB19","Black Turf",24.2
+"992","Dec_2022","EB","EB19","Green Turf",0.8
+"993","Dec_2022","EB","EB19","Hard coral",20.8
+"994","Dec_2022","EB","EB19","Macroalgae",20.2
+"995","Dec_2022","EB","EB19","Other",0
+"996","Dec_2022","EB","EB19","Other Turf",5.8
+"997","Dec_2022","EB","EB19","Other benthic invertebrates",0
+"998","Dec_2022","EB","EB19","Red Turf",0
+"999","Dec_2022","EB","EB19","Rubble and Rock",3.6
+"1000","Dec_2022","EB","EB19","Sand",24.6
+"1001","Dec_2022","EB","EB2","Black Turf",3.3
+"1002","Dec_2022","EB","EB2","Green Turf",0.6
+"1003","Dec_2022","EB","EB2","Hard coral",54.8
+"1004","Dec_2022","EB","EB2","Macroalgae",10.2
+"1005","Dec_2022","EB","EB2","Other",0
+"1006","Dec_2022","EB","EB2","Other Turf",4.8
+"1007","Dec_2022","EB","EB2","Other benthic invertebrates",1
+"1008","Dec_2022","EB","EB2","Red Turf",0
+"1009","Dec_2022","EB","EB2","Rubble and Rock",0.7
+"1010","Dec_2022","EB","EB2","Sand",24.6
+"1011","Dec_2022","EB","EB20","Black Turf",6.9
+"1012","Dec_2022","EB","EB20","Green Turf",0.5
+"1013","Dec_2022","EB","EB20","Hard coral",35.2
+"1014","Dec_2022","EB","EB20","Macroalgae",38.5
+"1015","Dec_2022","EB","EB20","Other",0
+"1016","Dec_2022","EB","EB20","Other Turf",6.7
+"1017","Dec_2022","EB","EB20","Other benthic invertebrates",0
+"1018","Dec_2022","EB","EB20","Red Turf",0
+"1019","Dec_2022","EB","EB20","Rubble and Rock",0.9
+"1020","Dec_2022","EB","EB20","Sand",11.3
+"1021","Dec_2022","EB","EB21","Black Turf",5.1
+"1022","Dec_2022","EB","EB21","Green Turf",0.6
+"1023","Dec_2022","EB","EB21","Hard coral",41.7
+"1024","Dec_2022","EB","EB21","Macroalgae",35.6
+"1025","Dec_2022","EB","EB21","Other",0
+"1026","Dec_2022","EB","EB21","Other Turf",2.9
+"1027","Dec_2022","EB","EB21","Other benthic invertebrates",0
+"1028","Dec_2022","EB","EB21","Red Turf",0
+"1029","Dec_2022","EB","EB21","Rubble and Rock",0
+"1030","Dec_2022","EB","EB21","Sand",14.1
+"1031","Dec_2022","EB","EB22","Black Turf",8.1
+"1032","Dec_2022","EB","EB22","Green Turf",1.3
+"1033","Dec_2022","EB","EB22","Hard coral",45.4
+"1034","Dec_2022","EB","EB22","Macroalgae",18
+"1035","Dec_2022","EB","EB22","Other",0
+"1036","Dec_2022","EB","EB22","Other Turf",9.2
+"1037","Dec_2022","EB","EB22","Other benthic invertebrates",0.2
+"1038","Dec_2022","EB","EB22","Red Turf",0
+"1039","Dec_2022","EB","EB22","Rubble and Rock",0.9
+"1040","Dec_2022","EB","EB22","Sand",16.9
+"1041","Dec_2022","EB","EB23","Black Turf",15.7
+"1042","Dec_2022","EB","EB23","Green Turf",0.4
+"1043","Dec_2022","EB","EB23","Hard coral",27.2
+"1044","Dec_2022","EB","EB23","Macroalgae",22.1
+"1045","Dec_2022","EB","EB23","Other",0
+"1046","Dec_2022","EB","EB23","Other Turf",8.6
+"1047","Dec_2022","EB","EB23","Other benthic invertebrates",0
+"1048","Dec_2022","EB","EB23","Red Turf",0
+"1049","Dec_2022","EB","EB23","Rubble and Rock",4.3
+"1050","Dec_2022","EB","EB23","Sand",21.7
+"1051","Dec_2022","EB","EB24","Black Turf",5.7
+"1052","Dec_2022","EB","EB24","Green Turf",0.4
+"1053","Dec_2022","EB","EB24","Hard coral",65.7
+"1054","Dec_2022","EB","EB24","Macroalgae",11.7
+"1055","Dec_2022","EB","EB24","Other",0
+"1056","Dec_2022","EB","EB24","Other Turf",3.2
+"1057","Dec_2022","EB","EB24","Other benthic invertebrates",0.4
+"1058","Dec_2022","EB","EB24","Red Turf",0
+"1059","Dec_2022","EB","EB24","Rubble and Rock",0.7
+"1060","Dec_2022","EB","EB24","Sand",12.2
+"1061","Dec_2022","EB","EB3","Black Turf",3.4
+"1062","Dec_2022","EB","EB3","Green Turf",0.5
+"1063","Dec_2022","EB","EB3","Hard coral",55.3
+"1064","Dec_2022","EB","EB3","Macroalgae",17.9
+"1065","Dec_2022","EB","EB3","Other",0
+"1066","Dec_2022","EB","EB3","Other Turf",6.8
+"1067","Dec_2022","EB","EB3","Other benthic invertebrates",0.7
+"1068","Dec_2022","EB","EB3","Red Turf",0
+"1069","Dec_2022","EB","EB3","Rubble and Rock",0.6
+"1070","Dec_2022","EB","EB3","Sand",14.8
+"1071","Dec_2022","EB","EB4","Black Turf",7.1
+"1072","Dec_2022","EB","EB4","Green Turf",0.2
+"1073","Dec_2022","EB","EB4","Hard coral",62.1
+"1074","Dec_2022","EB","EB4","Macroalgae",8.9
+"1075","Dec_2022","EB","EB4","Other",0
+"1076","Dec_2022","EB","EB4","Other Turf",4.4
+"1077","Dec_2022","EB","EB4","Other benthic invertebrates",0.1
+"1078","Dec_2022","EB","EB4","Red Turf",0
+"1079","Dec_2022","EB","EB4","Rubble and Rock",0.3
+"1080","Dec_2022","EB","EB4","Sand",16.9
+"1081","Dec_2022","EB","EB5","Black Turf",3
+"1082","Dec_2022","EB","EB5","Green Turf",0.8
+"1083","Dec_2022","EB","EB5","Hard coral",35.8
+"1084","Dec_2022","EB","EB5","Macroalgae",37.1
+"1085","Dec_2022","EB","EB5","Other",0
+"1086","Dec_2022","EB","EB5","Other Turf",4.4
+"1087","Dec_2022","EB","EB5","Other benthic invertebrates",0
+"1088","Dec_2022","EB","EB5","Red Turf",0
+"1089","Dec_2022","EB","EB5","Rubble and Rock",0.5
+"1090","Dec_2022","EB","EB5","Sand",18.4
+"1091","Dec_2022","EB","EB6","Black Turf",2.3
+"1092","Dec_2022","EB","EB6","Green Turf",1
+"1093","Dec_2022","EB","EB6","Hard coral",37.7
+"1094","Dec_2022","EB","EB6","Macroalgae",26.9
+"1095","Dec_2022","EB","EB6","Other",0
+"1096","Dec_2022","EB","EB6","Other Turf",6.2
+"1097","Dec_2022","EB","EB6","Other benthic invertebrates",0.7
+"1098","Dec_2022","EB","EB6","Red Turf",0
+"1099","Dec_2022","EB","EB6","Rubble and Rock",0.8
+"1100","Dec_2022","EB","EB6","Sand",24.4
+"1101","Dec_2022","EB","EB7","Black Turf",2.5
+"1102","Dec_2022","EB","EB7","Green Turf",0.4
+"1103","Dec_2022","EB","EB7","Hard coral",18.3
+"1104","Dec_2022","EB","EB7","Macroalgae",38.9
+"1105","Dec_2022","EB","EB7","Other",0
+"1106","Dec_2022","EB","EB7","Other Turf",4.7
+"1107","Dec_2022","EB","EB7","Other benthic invertebrates",0
+"1108","Dec_2022","EB","EB7","Red Turf",0.1
+"1109","Dec_2022","EB","EB7","Rubble and Rock",1.7
+"1110","Dec_2022","EB","EB7","Sand",33.4
+"1111","Dec_2022","EB","EB8","Black Turf",8.7
+"1112","Dec_2022","EB","EB8","Green Turf",0
+"1113","Dec_2022","EB","EB8","Hard coral",41.2
+"1114","Dec_2022","EB","EB8","Macroalgae",21.9
+"1115","Dec_2022","EB","EB8","Other",0
+"1116","Dec_2022","EB","EB8","Other Turf",6.9
+"1117","Dec_2022","EB","EB8","Other benthic invertebrates",0.3
+"1118","Dec_2022","EB","EB8","Red Turf",0
+"1119","Dec_2022","EB","EB8","Rubble and Rock",2.6
+"1120","Dec_2022","EB","EB8","Sand",18.4
+"1121","Dec_2022","EB","EB9","Black Turf",6
+"1122","Dec_2022","EB","EB9","Green Turf",0.8
+"1123","Dec_2022","EB","EB9","Hard coral",35.6
+"1124","Dec_2022","EB","EB9","Macroalgae",35.6
+"1125","Dec_2022","EB","EB9","Other",0
+"1126","Dec_2022","EB","EB9","Other Turf",4.8
+"1127","Dec_2022","EB","EB9","Other benthic invertebrates",0
+"1128","Dec_2022","EB","EB9","Red Turf",0
+"1129","Dec_2022","EB","EB9","Rubble and Rock",0.2
+"1130","Dec_2022","EB","EB9","Sand",17
+"1131","Dec_2022","SB","SB1","Black Turf",20.4
+"1132","Dec_2022","SB","SB1","Green Turf",0.3
+"1133","Dec_2022","SB","SB1","Hard coral",12.1
+"1134","Dec_2022","SB","SB1","Macroalgae",29.6
+"1135","Dec_2022","SB","SB1","Other",0
+"1136","Dec_2022","SB","SB1","Other Turf",3.7
+"1137","Dec_2022","SB","SB1","Other benthic invertebrates",0.1
+"1138","Dec_2022","SB","SB1","Red Turf",0
+"1139","Dec_2022","SB","SB1","Rubble and Rock",4.5
+"1140","Dec_2022","SB","SB1","Sand",29.3
+"1141","Dec_2022","SB","SB10","Black Turf",11.5
+"1142","Dec_2022","SB","SB10","Green Turf",2.8
+"1143","Dec_2022","SB","SB10","Hard coral",38.9
+"1144","Dec_2022","SB","SB10","Macroalgae",13.4
+"1145","Dec_2022","SB","SB10","Other",0
+"1146","Dec_2022","SB","SB10","Other Turf",7.4
+"1147","Dec_2022","SB","SB10","Other benthic invertebrates",0.7
+"1148","Dec_2022","SB","SB10","Red Turf",0
+"1149","Dec_2022","SB","SB10","Rubble and Rock",1
+"1150","Dec_2022","SB","SB10","Sand",24.3
+"1151","Dec_2022","SB","SB11","Black Turf",22.9
+"1152","Dec_2022","SB","SB11","Green Turf",2.5
+"1153","Dec_2022","SB","SB11","Hard coral",20.2
+"1154","Dec_2022","SB","SB11","Macroalgae",11.9
+"1155","Dec_2022","SB","SB11","Other",0
+"1156","Dec_2022","SB","SB11","Other Turf",6.2
+"1157","Dec_2022","SB","SB11","Other benthic invertebrates",0.2
+"1158","Dec_2022","SB","SB11","Red Turf",0
+"1159","Dec_2022","SB","SB11","Rubble and Rock",1.4
+"1160","Dec_2022","SB","SB11","Sand",34.7
+"1161","Dec_2022","SB","SB12","Black Turf",5.8
+"1162","Dec_2022","SB","SB12","Green Turf",0.1
+"1163","Dec_2022","SB","SB12","Hard coral",58.6
+"1164","Dec_2022","SB","SB12","Macroalgae",5.4
+"1165","Dec_2022","SB","SB12","Other",0
+"1166","Dec_2022","SB","SB12","Other Turf",6.3
+"1167","Dec_2022","SB","SB12","Other benthic invertebrates",2.8
+"1168","Dec_2022","SB","SB12","Red Turf",0
+"1169","Dec_2022","SB","SB12","Rubble and Rock",0.3
+"1170","Dec_2022","SB","SB12","Sand",20.7
+"1171","Dec_2022","SB","SB13","Black Turf",0.4
+"1172","Dec_2022","SB","SB13","Green Turf",0.4
+"1173","Dec_2022","SB","SB13","Hard coral",0
+"1174","Dec_2022","SB","SB13","Macroalgae",21.4
+"1175","Dec_2022","SB","SB13","Other",0
+"1176","Dec_2022","SB","SB13","Other Turf",3
+"1177","Dec_2022","SB","SB13","Other benthic invertebrates",0
+"1178","Dec_2022","SB","SB13","Red Turf",0
+"1179","Dec_2022","SB","SB13","Rubble and Rock",1.6
+"1180","Dec_2022","SB","SB13","Sand",73.2
+"1181","Dec_2022","SB","SB14","Black Turf",0.2
+"1182","Dec_2022","SB","SB14","Green Turf",0.1
+"1183","Dec_2022","SB","SB14","Hard coral",0
+"1184","Dec_2022","SB","SB14","Macroalgae",18
+"1185","Dec_2022","SB","SB14","Other",0
+"1186","Dec_2022","SB","SB14","Other Turf",5.6
+"1187","Dec_2022","SB","SB14","Other benthic invertebrates",0
+"1188","Dec_2022","SB","SB14","Red Turf",0
+"1189","Dec_2022","SB","SB14","Rubble and Rock",1.7
+"1190","Dec_2022","SB","SB14","Sand",74.4
+"1191","Dec_2022","SB","SB15","Black Turf",0.4
+"1192","Dec_2022","SB","SB15","Green Turf",0.4
+"1193","Dec_2022","SB","SB15","Hard coral",0
+"1194","Dec_2022","SB","SB15","Macroalgae",33.9
+"1195","Dec_2022","SB","SB15","Other",0
+"1196","Dec_2022","SB","SB15","Other Turf",3
+"1197","Dec_2022","SB","SB15","Other benthic invertebrates",0
+"1198","Dec_2022","SB","SB15","Red Turf",0
+"1199","Dec_2022","SB","SB15","Rubble and Rock",0
+"1200","Dec_2022","SB","SB15","Sand",62.3
+"1201","Dec_2022","SB","SB16","Black Turf",0.3
+"1202","Dec_2022","SB","SB16","Green Turf",0.1
+"1203","Dec_2022","SB","SB16","Hard coral",2.2
+"1204","Dec_2022","SB","SB16","Macroalgae",38.5
+"1205","Dec_2022","SB","SB16","Other",0
+"1206","Dec_2022","SB","SB16","Other Turf",5.6
+"1207","Dec_2022","SB","SB16","Other benthic invertebrates",0
+"1208","Dec_2022","SB","SB16","Red Turf",0
+"1209","Dec_2022","SB","SB16","Rubble and Rock",0.1
+"1210","Dec_2022","SB","SB16","Sand",53.2
+"1211","Dec_2022","SB","SB17","Black Turf",1.1
+"1212","Dec_2022","SB","SB17","Green Turf",4.3
+"1213","Dec_2022","SB","SB17","Hard coral",67.7
+"1214","Dec_2022","SB","SB17","Macroalgae",15.7
+"1215","Dec_2022","SB","SB17","Other",0
+"1216","Dec_2022","SB","SB17","Other Turf",2.9
+"1217","Dec_2022","SB","SB17","Other benthic invertebrates",0.6
+"1218","Dec_2022","SB","SB17","Red Turf",0
+"1219","Dec_2022","SB","SB17","Rubble and Rock",1
+"1220","Dec_2022","SB","SB17","Sand",6.7
+"1221","Dec_2022","SB","SB18","Black Turf",15.7
+"1222","Dec_2022","SB","SB18","Green Turf",0.3
+"1223","Dec_2022","SB","SB18","Hard coral",5.6
+"1224","Dec_2022","SB","SB18","Macroalgae",45.5
+"1225","Dec_2022","SB","SB18","Other",0
+"1226","Dec_2022","SB","SB18","Other Turf",7.5
+"1227","Dec_2022","SB","SB18","Other benthic invertebrates",0.1
+"1228","Dec_2022","SB","SB18","Red Turf",0.2
+"1229","Dec_2022","SB","SB18","Rubble and Rock",6.2
+"1230","Dec_2022","SB","SB18","Sand",18.9
+"1231","Dec_2022","SB","SB19","Black Turf",5.5
+"1232","Dec_2022","SB","SB19","Green Turf",1.2
+"1233","Dec_2022","SB","SB19","Hard coral",50.5
+"1234","Dec_2022","SB","SB19","Macroalgae",23.9
+"1235","Dec_2022","SB","SB19","Other",0
+"1236","Dec_2022","SB","SB19","Other Turf",6.1
+"1237","Dec_2022","SB","SB19","Other benthic invertebrates",0.6
+"1238","Dec_2022","SB","SB19","Red Turf",0
+"1239","Dec_2022","SB","SB19","Rubble and Rock",0.1
+"1240","Dec_2022","SB","SB19","Sand",12.1
+"1241","Dec_2022","SB","SB20","Black Turf",21.4
+"1242","Dec_2022","SB","SB20","Green Turf",0.4
+"1243","Dec_2022","SB","SB20","Hard coral",25.4
+"1244","Dec_2022","SB","SB20","Macroalgae",20.5
+"1245","Dec_2022","SB","SB20","Other",0
+"1246","Dec_2022","SB","SB20","Other Turf",4.5
+"1247","Dec_2022","SB","SB20","Other benthic invertebrates",0.1
+"1248","Dec_2022","SB","SB20","Red Turf",0
+"1249","Dec_2022","SB","SB20","Rubble and Rock",5.1
+"1250","Dec_2022","SB","SB20","Sand",22.6
+"1251","Dec_2022","SB","SB21","Black Turf",20.8
+"1252","Dec_2022","SB","SB21","Green Turf",0.6
+"1253","Dec_2022","SB","SB21","Hard coral",16.1
+"1254","Dec_2022","SB","SB21","Macroalgae",27
+"1255","Dec_2022","SB","SB21","Other",0
+"1256","Dec_2022","SB","SB21","Other Turf",7.5
+"1257","Dec_2022","SB","SB21","Other benthic invertebrates",0.1
+"1258","Dec_2022","SB","SB21","Red Turf",0
+"1259","Dec_2022","SB","SB21","Rubble and Rock",1.1
+"1260","Dec_2022","SB","SB21","Sand",26.8
+"1261","Dec_2022","SB","SB22","Black Turf",16.9
+"1262","Dec_2022","SB","SB22","Green Turf",0.6
+"1263","Dec_2022","SB","SB22","Hard coral",12.2
+"1264","Dec_2022","SB","SB22","Macroalgae",28
+"1265","Dec_2022","SB","SB22","Other",0.1
+"1266","Dec_2022","SB","SB22","Other Turf",8.9
+"1267","Dec_2022","SB","SB22","Other benthic invertebrates",0
+"1268","Dec_2022","SB","SB22","Red Turf",0
+"1269","Dec_2022","SB","SB22","Rubble and Rock",1.2
+"1270","Dec_2022","SB","SB22","Sand",32.1
+"1271","Dec_2022","SB","SB23","Black Turf",10.5
+"1272","Dec_2022","SB","SB23","Green Turf",0.3
+"1273","Dec_2022","SB","SB23","Hard coral",40
+"1274","Dec_2022","SB","SB23","Macroalgae",16.1
+"1275","Dec_2022","SB","SB23","Other",0
+"1276","Dec_2022","SB","SB23","Other Turf",8.4
+"1277","Dec_2022","SB","SB23","Other benthic invertebrates",0.6
+"1278","Dec_2022","SB","SB23","Red Turf",0
+"1279","Dec_2022","SB","SB23","Rubble and Rock",0.8
+"1280","Dec_2022","SB","SB23","Sand",23.3
+"1281","Dec_2022","SB","SB25","Black Turf",16
+"1282","Dec_2022","SB","SB25","Green Turf",0.9
+"1283","Dec_2022","SB","SB25","Hard coral",16
+"1284","Dec_2022","SB","SB25","Macroalgae",38.8
+"1285","Dec_2022","SB","SB25","Other",0
+"1286","Dec_2022","SB","SB25","Other Turf",6.7
+"1287","Dec_2022","SB","SB25","Other benthic invertebrates",0.1
+"1288","Dec_2022","SB","SB25","Red Turf",0.2
+"1289","Dec_2022","SB","SB25","Rubble and Rock",2.3
+"1290","Dec_2022","SB","SB25","Sand",19
+"1291","Dec_2022","SB","SB26","Black Turf",18.7
+"1292","Dec_2022","SB","SB26","Green Turf",2.5
+"1293","Dec_2022","SB","SB26","Hard coral",8.6
+"1294","Dec_2022","SB","SB26","Macroalgae",28.2
+"1295","Dec_2022","SB","SB26","Other",0
+"1296","Dec_2022","SB","SB26","Other Turf",5.9
+"1297","Dec_2022","SB","SB26","Other benthic invertebrates",0.3
+"1298","Dec_2022","SB","SB26","Red Turf",0
+"1299","Dec_2022","SB","SB26","Rubble and Rock",10.9
+"1300","Dec_2022","SB","SB26","Sand",24.9
+"1301","Dec_2022","SB","SB27","Black Turf",1.2
+"1302","Dec_2022","SB","SB27","Green Turf",0.1
+"1303","Dec_2022","SB","SB27","Hard coral",1.1
+"1304","Dec_2022","SB","SB27","Macroalgae",19.9
+"1305","Dec_2022","SB","SB27","Other",0
+"1306","Dec_2022","SB","SB27","Other Turf",5
+"1307","Dec_2022","SB","SB27","Other benthic invertebrates",0
+"1308","Dec_2022","SB","SB27","Red Turf",0
+"1309","Dec_2022","SB","SB27","Rubble and Rock",1
+"1310","Dec_2022","SB","SB27","Sand",71.7
+"1311","Dec_2022","SB","SB3","Black Turf",13.5
+"1312","Dec_2022","SB","SB3","Green Turf",0.1
+"1313","Dec_2022","SB","SB3","Hard coral",44.7
+"1314","Dec_2022","SB","SB3","Macroalgae",23.2
+"1315","Dec_2022","SB","SB3","Other",0
+"1316","Dec_2022","SB","SB3","Other Turf",2.8
+"1317","Dec_2022","SB","SB3","Other benthic invertebrates",0.2
+"1318","Dec_2022","SB","SB3","Red Turf",0
+"1319","Dec_2022","SB","SB3","Rubble and Rock",0.6
+"1320","Dec_2022","SB","SB3","Sand",14.9
+"1321","Dec_2022","SB","SB4","Black Turf",28.4
+"1322","Dec_2022","SB","SB4","Green Turf",1
+"1323","Dec_2022","SB","SB4","Hard coral",9.1
+"1324","Dec_2022","SB","SB4","Macroalgae",19.4
+"1325","Dec_2022","SB","SB4","Other",0
+"1326","Dec_2022","SB","SB4","Other Turf",13.2
+"1327","Dec_2022","SB","SB4","Other benthic invertebrates",0.1
+"1328","Dec_2022","SB","SB4","Red Turf",0
+"1329","Dec_2022","SB","SB4","Rubble and Rock",7.2
+"1330","Dec_2022","SB","SB4","Sand",21.6
+"1331","Dec_2022","SB","SB5","Black Turf",2.1
+"1332","Dec_2022","SB","SB5","Green Turf",0.8
+"1333","Dec_2022","SB","SB5","Hard coral",40.8
+"1334","Dec_2022","SB","SB5","Macroalgae",27.1
+"1335","Dec_2022","SB","SB5","Other",0
+"1336","Dec_2022","SB","SB5","Other Turf",18.7
+"1337","Dec_2022","SB","SB5","Other benthic invertebrates",0.7
+"1338","Dec_2022","SB","SB5","Red Turf",0
+"1339","Dec_2022","SB","SB5","Rubble and Rock",3.1
+"1340","Dec_2022","SB","SB5","Sand",6.7
+"1341","Dec_2022","SB","SB6","Black Turf",0.8
+"1342","Dec_2022","SB","SB6","Green Turf",0.5
+"1343","Dec_2022","SB","SB6","Hard coral",43.6
+"1344","Dec_2022","SB","SB6","Macroalgae",20.5
+"1345","Dec_2022","SB","SB6","Other",0
+"1346","Dec_2022","SB","SB6","Other Turf",24.7
+"1347","Dec_2022","SB","SB6","Other benthic invertebrates",0.5
+"1348","Dec_2022","SB","SB6","Red Turf",0
+"1349","Dec_2022","SB","SB6","Rubble and Rock",1.1
+"1350","Dec_2022","SB","SB6","Sand",8.3
+"1351","Dec_2022","SB","SB8","Black Turf",1.6
+"1352","Dec_2022","SB","SB8","Green Turf",0.6
+"1353","Dec_2022","SB","SB8","Hard coral",11.2
+"1354","Dec_2022","SB","SB8","Macroalgae",27.9
+"1355","Dec_2022","SB","SB8","Other",0
+"1356","Dec_2022","SB","SB8","Other Turf",21.4
+"1357","Dec_2022","SB","SB8","Other benthic invertebrates",0.9
+"1358","Dec_2022","SB","SB8","Red Turf",0
+"1359","Dec_2022","SB","SB8","Rubble and Rock",2.2
+"1360","Dec_2022","SB","SB8","Sand",34.2
+"1361","Dec_2022","SB","SB9","Black Turf",2.1
+"1362","Dec_2022","SB","SB9","Green Turf",0.4
+"1363","Dec_2022","SB","SB9","Hard coral",27.4
+"1364","Dec_2022","SB","SB9","Macroalgae",35.8
+"1365","Dec_2022","SB","SB9","Other",0
+"1366","Dec_2022","SB","SB9","Other Turf",24.5
+"1367","Dec_2022","SB","SB9","Other benthic invertebrates",0.3
+"1368","Dec_2022","SB","SB9","Red Turf",0
+"1369","Dec_2022","SB","SB9","Rubble and Rock",3.8
+"1370","Dec_2022","SB","SB9","Sand",5.7
+"1371","March_2020","EB","EB01","Black Turf",1.1
+"1372","March_2020","EB","EB01","Green Turf",0
+"1373","March_2020","EB","EB01","Hard coral",51
+"1374","March_2020","EB","EB01","Macroalgae",9.5
+"1375","March_2020","EB","EB01","Other",0.1
+"1376","March_2020","EB","EB01","Other Turf",3
+"1377","March_2020","EB","EB01","Other benthic invertebrates",0.3
+"1378","March_2020","EB","EB01","Red Turf",15.2
+"1379","March_2020","EB","EB01","Rubble and Rock",0.4
+"1380","March_2020","EB","EB01","Sand",19.4
+"1381","March_2020","EB","EB02","Black Turf",2.5
+"1382","March_2020","EB","EB02","Green Turf",0.4
+"1383","March_2020","EB","EB02","Hard coral",24.5
+"1384","March_2020","EB","EB02","Macroalgae",6.5
+"1385","March_2020","EB","EB02","Other",0
+"1386","March_2020","EB","EB02","Other Turf",4.8
+"1387","March_2020","EB","EB02","Other benthic invertebrates",0.3
+"1388","March_2020","EB","EB02","Red Turf",21.7
+"1389","March_2020","EB","EB02","Rubble and Rock",1.1
+"1390","March_2020","EB","EB02","Sand",38.2
+"1391","March_2020","EB","EB03","Black Turf",1
+"1392","March_2020","EB","EB03","Green Turf",1.3
+"1393","March_2020","EB","EB03","Hard coral",26.9
+"1394","March_2020","EB","EB03","Macroalgae",12.2
+"1395","March_2020","EB","EB03","Other",0
+"1396","March_2020","EB","EB03","Other Turf",1.8
+"1397","March_2020","EB","EB03","Other benthic invertebrates",0.4
+"1398","March_2020","EB","EB03","Red Turf",36.3
+"1399","March_2020","EB","EB03","Rubble and Rock",1
+"1400","March_2020","EB","EB03","Sand",19.1
+"1401","March_2020","EB","EB04","Black Turf",0.1
+"1402","March_2020","EB","EB04","Green Turf",0.5
+"1403","March_2020","EB","EB04","Hard coral",36.5
+"1404","March_2020","EB","EB04","Macroalgae",4.9
+"1405","March_2020","EB","EB04","Other",0
+"1406","March_2020","EB","EB04","Other Turf",1.8
+"1407","March_2020","EB","EB04","Other benthic invertebrates",0.2
+"1408","March_2020","EB","EB04","Red Turf",14.7
+"1409","March_2020","EB","EB04","Rubble and Rock",0.1
+"1410","March_2020","EB","EB04","Sand",41.2
+"1411","March_2020","EB","EB05","Black Turf",1.4
+"1412","March_2020","EB","EB05","Green Turf",0.1
+"1413","March_2020","EB","EB05","Hard coral",29.9
+"1414","March_2020","EB","EB05","Macroalgae",23.5
+"1415","March_2020","EB","EB05","Other",0
+"1416","March_2020","EB","EB05","Other Turf",2.2
+"1417","March_2020","EB","EB05","Other benthic invertebrates",1.2
+"1418","March_2020","EB","EB05","Red Turf",28.4
+"1419","March_2020","EB","EB05","Rubble and Rock",0.4
+"1420","March_2020","EB","EB05","Sand",12.9
+"1421","March_2020","EB","EB06","Black Turf",1.4
+"1422","March_2020","EB","EB06","Green Turf",1.3
+"1423","March_2020","EB","EB06","Hard coral",8.1
+"1424","March_2020","EB","EB06","Macroalgae",25.9
+"1425","March_2020","EB","EB06","Other",0
+"1426","March_2020","EB","EB06","Other Turf",5.1
+"1427","March_2020","EB","EB06","Other benthic invertebrates",0.1
+"1428","March_2020","EB","EB06","Red Turf",11.6
+"1429","March_2020","EB","EB06","Rubble and Rock",0.1
+"1430","March_2020","EB","EB06","Sand",46.4
+"1431","March_2020","EB","EB07","Black Turf",1.6
+"1432","March_2020","EB","EB07","Green Turf",0.6
+"1433","March_2020","EB","EB07","Hard coral",5.4
+"1434","March_2020","EB","EB07","Macroalgae",17.9
+"1435","March_2020","EB","EB07","Other",0
+"1436","March_2020","EB","EB07","Other Turf",6.4
+"1437","March_2020","EB","EB07","Other benthic invertebrates",0.7
+"1438","March_2020","EB","EB07","Red Turf",21.4
+"1439","March_2020","EB","EB07","Rubble and Rock",2.6
+"1440","March_2020","EB","EB07","Sand",43.4
+"1441","March_2020","SB","SB01","Black Turf",4.3
+"1442","March_2020","SB","SB01","Green Turf",1.5
+"1443","March_2020","SB","SB01","Hard coral",19.4
+"1444","March_2020","SB","SB01","Macroalgae",19
+"1445","March_2020","SB","SB01","Other",0
+"1446","March_2020","SB","SB01","Other Turf",3.5
+"1447","March_2020","SB","SB01","Other benthic invertebrates",0
+"1448","March_2020","SB","SB01","Red Turf",11.4
+"1449","March_2020","SB","SB01","Rubble and Rock",6.1
+"1450","March_2020","SB","SB01","Sand",34.8
+"1451","March_2020","SB","SB03","Black Turf",1.1
+"1452","March_2020","SB","SB03","Green Turf",0.4
+"1453","March_2020","SB","SB03","Hard coral",22.1
+"1454","March_2020","SB","SB03","Macroalgae",16.5
+"1455","March_2020","SB","SB03","Other",0
+"1456","March_2020","SB","SB03","Other Turf",2.7
+"1457","March_2020","SB","SB03","Other benthic invertebrates",0.4
+"1458","March_2020","SB","SB03","Red Turf",45.7
+"1459","March_2020","SB","SB03","Rubble and Rock",0.1
+"1460","March_2020","SB","SB03","Sand",11
+"1461","March_2020","SB","SB04","Black Turf",2.9
+"1462","March_2020","SB","SB04","Green Turf",1.1
+"1463","March_2020","SB","SB04","Hard coral",12.8
+"1464","March_2020","SB","SB04","Macroalgae",30.1
+"1465","March_2020","SB","SB04","Other",0
+"1466","March_2020","SB","SB04","Other Turf",1.8
+"1467","March_2020","SB","SB04","Other benthic invertebrates",0.3
+"1468","March_2020","SB","SB04","Red Turf",17.3
+"1469","March_2020","SB","SB04","Rubble and Rock",1.7
+"1470","March_2020","SB","SB04","Sand",32
+"1471","March_2020","SB","SB05","Black Turf",3.1
+"1472","March_2020","SB","SB05","Green Turf",0.8
+"1473","March_2020","SB","SB05","Hard coral",44
+"1474","March_2020","SB","SB05","Macroalgae",17.5
+"1475","March_2020","SB","SB05","Other",0
+"1476","March_2020","SB","SB05","Other Turf",5.1
+"1477","March_2020","SB","SB05","Other benthic invertebrates",0.5
+"1478","March_2020","SB","SB05","Red Turf",14.9
+"1479","March_2020","SB","SB05","Rubble and Rock",0
+"1480","March_2020","SB","SB05","Sand",14.1
+"1481","March_2020","SB","SB06","Black Turf",2.1
+"1482","March_2020","SB","SB06","Green Turf",1.1
+"1483","March_2020","SB","SB06","Hard coral",35.6
+"1484","March_2020","SB","SB06","Macroalgae",11.9
+"1485","March_2020","SB","SB06","Other",0
+"1486","March_2020","SB","SB06","Other Turf",7
+"1487","March_2020","SB","SB06","Other benthic invertebrates",0.7
+"1488","March_2020","SB","SB06","Red Turf",18.5
+"1489","March_2020","SB","SB06","Rubble and Rock",0.7
+"1490","March_2020","SB","SB06","Sand",22.4
+"1491","March_2020","SB","SB08","Black Turf",1.5
+"1492","March_2020","SB","SB08","Green Turf",0.2
+"1493","March_2020","SB","SB08","Hard coral",8.5
+"1494","March_2020","SB","SB08","Macroalgae",13.1
+"1495","March_2020","SB","SB08","Other",0
+"1496","March_2020","SB","SB08","Other Turf",2
+"1497","March_2020","SB","SB08","Other benthic invertebrates",0
+"1498","March_2020","SB","SB08","Red Turf",59.2
+"1499","March_2020","SB","SB08","Rubble and Rock",0.5
+"1500","March_2020","SB","SB08","Sand",15
+"1501","March_2020","SB","SB09","Black Turf",7.4
+"1502","March_2020","SB","SB09","Green Turf",0.4
+"1503","March_2020","SB","SB09","Hard coral",21.1
+"1504","March_2020","SB","SB09","Macroalgae",13.4
+"1505","March_2020","SB","SB09","Other",0
+"1506","March_2020","SB","SB09","Other Turf",1.4
+"1507","March_2020","SB","SB09","Other benthic invertebrates",0.5
+"1508","March_2020","SB","SB09","Red Turf",27.5
+"1509","March_2020","SB","SB09","Rubble and Rock",1.4
+"1510","March_2020","SB","SB09","Sand",26.9
+"1511","March_2021","CB","CB1","Black Turf",1.2
+"1512","March_2021","CB","CB1","Green Turf",0.1
+"1513","March_2021","CB","CB1","Hard coral",71.9
+"1514","March_2021","CB","CB1","Macroalgae",2.1
+"1515","March_2021","CB","CB1","Other",0
+"1516","March_2021","CB","CB1","Other Turf",5.2
+"1517","March_2021","CB","CB1","Other benthic invertebrates",0.2
+"1518","March_2021","CB","CB1","Red Turf",4.2
+"1519","March_2021","CB","CB1","Rubble and Rock",0.5
+"1520","March_2021","CB","CB1","Sand",14.6
+"1521","March_2021","CB","CB2","Black Turf",7.7
+"1522","March_2021","CB","CB2","Green Turf",0.3
+"1523","March_2021","CB","CB2","Hard coral",38.1
+"1524","March_2021","CB","CB2","Macroalgae",12.5
+"1525","March_2021","CB","CB2","Other",0
+"1526","March_2021","CB","CB2","Other Turf",5.3
+"1527","March_2021","CB","CB2","Other benthic invertebrates",0.1
+"1528","March_2021","CB","CB2","Red Turf",7.7
+"1529","March_2021","CB","CB2","Rubble and Rock",1.4
+"1530","March_2021","CB","CB2","Sand",26.9
+"1531","March_2021","CB","CB3","Black Turf",3
+"1532","March_2021","CB","CB3","Green Turf",0.4
+"1533","March_2021","CB","CB3","Hard coral",46.6
+"1534","March_2021","CB","CB3","Macroalgae",6.2
+"1535","March_2021","CB","CB3","Other",0
+"1536","March_2021","CB","CB3","Other Turf",5.6
+"1537","March_2021","CB","CB3","Other benthic invertebrates",4.7
+"1538","March_2021","CB","CB3","Red Turf",12
+"1539","March_2021","CB","CB3","Rubble and Rock",0.8
+"1540","March_2021","CB","CB3","Sand",20.7
+"1541","March_2021","CB","CB4","Black Turf",2.4
+"1542","March_2021","CB","CB4","Green Turf",0.1
+"1543","March_2021","CB","CB4","Hard coral",65.8
+"1544","March_2021","CB","CB4","Macroalgae",4.2
+"1545","March_2021","CB","CB4","Other",0
+"1546","March_2021","CB","CB4","Other Turf",5.6
+"1547","March_2021","CB","CB4","Other benthic invertebrates",1.5
+"1548","March_2021","CB","CB4","Red Turf",9.8
+"1549","March_2021","CB","CB4","Rubble and Rock",0.3
+"1550","March_2021","CB","CB4","Sand",10.3
+"1551","March_2021","CB","CB5","Black Turf",3.7
+"1552","March_2021","CB","CB5","Green Turf",1.3
+"1553","March_2021","CB","CB5","Hard coral",36.2
+"1554","March_2021","CB","CB5","Macroalgae",8.4
+"1555","March_2021","CB","CB5","Other",0
+"1556","March_2021","CB","CB5","Other Turf",11.9
+"1557","March_2021","CB","CB5","Other benthic invertebrates",2
+"1558","March_2021","CB","CB5","Red Turf",10.9
+"1559","March_2021","CB","CB5","Rubble and Rock",0.7
+"1560","March_2021","CB","CB5","Sand",24.9
+"1561","March_2021","EB","EB01","Black Turf",0.6
+"1562","March_2021","EB","EB01","Green Turf",0.8
+"1563","March_2021","EB","EB01","Hard coral",28.1
+"1564","March_2021","EB","EB01","Macroalgae",27.8
+"1565","March_2021","EB","EB01","Other",0
+"1566","March_2021","EB","EB01","Other Turf",4.3
+"1567","March_2021","EB","EB01","Other benthic invertebrates",1.1
+"1568","March_2021","EB","EB01","Red Turf",4.8
+"1569","March_2021","EB","EB01","Rubble and Rock",0.8
+"1570","March_2021","EB","EB01","Sand",31.7
+"1571","March_2021","EB","EB02","Black Turf",0.3
+"1572","March_2021","EB","EB02","Green Turf",0.4
+"1573","March_2021","EB","EB02","Hard coral",8
+"1574","March_2021","EB","EB02","Macroalgae",27.2
+"1575","March_2021","EB","EB02","Other",0
+"1576","March_2021","EB","EB02","Other Turf",2.9
+"1577","March_2021","EB","EB02","Other benthic invertebrates",0
+"1578","March_2021","EB","EB02","Red Turf",1
+"1579","March_2021","EB","EB02","Rubble and Rock",1
+"1580","March_2021","EB","EB02","Sand",59.2
+"1581","March_2021","EB","EB03","Black Turf",0.3
+"1582","March_2021","EB","EB03","Green Turf",1.4
+"1583","March_2021","EB","EB03","Hard coral",12.3
+"1584","March_2021","EB","EB03","Macroalgae",30.7
+"1585","March_2021","EB","EB03","Other",0
+"1586","March_2021","EB","EB03","Other Turf",4.1
+"1587","March_2021","EB","EB03","Other benthic invertebrates",0
+"1588","March_2021","EB","EB03","Red Turf",0.7
+"1589","March_2021","EB","EB03","Rubble and Rock",0.1
+"1590","March_2021","EB","EB03","Sand",50.4
+"1591","March_2021","EB","EB04","Black Turf",1.4
+"1592","March_2021","EB","EB04","Green Turf",1.1
+"1593","March_2021","EB","EB04","Hard coral",21.4
+"1594","March_2021","EB","EB04","Macroalgae",8.8
+"1595","March_2021","EB","EB04","Other",0
+"1596","March_2021","EB","EB04","Other Turf",1.4
+"1597","March_2021","EB","EB04","Other benthic invertebrates",0.1
+"1598","March_2021","EB","EB04","Red Turf",20.3
+"1599","March_2021","EB","EB04","Rubble and Rock",0.1
+"1600","March_2021","EB","EB04","Sand",45.4
+"1601","March_2021","EB","EB05","Black Turf",2.3
+"1602","March_2021","EB","EB05","Green Turf",0.4
+"1603","March_2021","EB","EB05","Hard coral",11.4
+"1604","March_2021","EB","EB05","Macroalgae",11.1
+"1605","March_2021","EB","EB05","Other",0
+"1606","March_2021","EB","EB05","Other Turf",7.8
+"1607","March_2021","EB","EB05","Other benthic invertebrates",1.4
+"1608","March_2021","EB","EB05","Red Turf",15.2
+"1609","March_2021","EB","EB05","Rubble and Rock",0.2
+"1610","March_2021","EB","EB05","Sand",50.2
+"1611","March_2021","EB","EB06","Black Turf",0.4
+"1612","March_2021","EB","EB06","Green Turf",0.8
+"1613","March_2021","EB","EB06","Hard coral",23.7
+"1614","March_2021","EB","EB06","Macroalgae",23.3
+"1615","March_2021","EB","EB06","Other",0
+"1616","March_2021","EB","EB06","Other Turf",6.9
+"1617","March_2021","EB","EB06","Other benthic invertebrates",1
+"1618","March_2021","EB","EB06","Red Turf",6.3
+"1619","March_2021","EB","EB06","Rubble and Rock",0.8
+"1620","March_2021","EB","EB06","Sand",36.8
+"1621","March_2021","EB","EB07","Black Turf",0.4
+"1622","March_2021","EB","EB07","Green Turf",0.3
+"1623","March_2021","EB","EB07","Hard coral",76.5
+"1624","March_2021","EB","EB07","Macroalgae",5.1
+"1625","March_2021","EB","EB07","Other",0
+"1626","March_2021","EB","EB07","Other Turf",1.2
+"1627","March_2021","EB","EB07","Other benthic invertebrates",1.1
+"1628","March_2021","EB","EB07","Red Turf",4
+"1629","March_2021","EB","EB07","Rubble and Rock",0.6
+"1630","March_2021","EB","EB07","Sand",10.8
+"1631","March_2021","EB","EB08","Black Turf",1
+"1632","March_2021","EB","EB08","Green Turf",1.4
+"1633","March_2021","EB","EB08","Hard coral",3.4
+"1634","March_2021","EB","EB08","Macroalgae",30.1
+"1635","March_2021","EB","EB08","Other",0
+"1636","March_2021","EB","EB08","Other Turf",2.6
+"1637","March_2021","EB","EB08","Other benthic invertebrates",0.7
+"1638","March_2021","EB","EB08","Red Turf",22.1
+"1639","March_2021","EB","EB08","Rubble and Rock",4.5
+"1640","March_2021","EB","EB08","Sand",34.2
+"1641","March_2021","EB","EB09","Black Turf",0
+"1642","March_2021","EB","EB09","Green Turf",0.4
+"1643","March_2021","EB","EB09","Hard coral",31.9
+"1644","March_2021","EB","EB09","Macroalgae",7.8
+"1645","March_2021","EB","EB09","Other",0
+"1646","March_2021","EB","EB09","Other Turf",1.1
+"1647","March_2021","EB","EB09","Other benthic invertebrates",0.8
+"1648","March_2021","EB","EB09","Red Turf",37.6
+"1649","March_2021","EB","EB09","Rubble and Rock",0.4
+"1650","March_2021","EB","EB09","Sand",20
+"1651","March_2021","EB","EB10","Black Turf",0
+"1652","March_2021","EB","EB10","Green Turf",0.3
+"1653","March_2021","EB","EB10","Hard coral",14.1
+"1654","March_2021","EB","EB10","Macroalgae",10.2
+"1655","March_2021","EB","EB10","Other",0
+"1656","March_2021","EB","EB10","Other Turf",0.9
+"1657","March_2021","EB","EB10","Other benthic invertebrates",0.9
+"1658","March_2021","EB","EB10","Red Turf",41.8
+"1659","March_2021","EB","EB10","Rubble and Rock",0.6
+"1660","March_2021","EB","EB10","Sand",31.2
+"1661","March_2021","EB","EB11","Black Turf",0
+"1662","March_2021","EB","EB11","Green Turf",1.8
+"1663","March_2021","EB","EB11","Hard coral",54.6
+"1664","March_2021","EB","EB11","Macroalgae",2.4
+"1665","March_2021","EB","EB11","Other",0
+"1666","March_2021","EB","EB11","Other Turf",2.5
+"1667","March_2021","EB","EB11","Other benthic invertebrates",1.6
+"1668","March_2021","EB","EB11","Red Turf",14.3
+"1669","March_2021","EB","EB11","Rubble and Rock",0.4
+"1670","March_2021","EB","EB11","Sand",22.4
+"1671","March_2021","EB","EB12","Black Turf",0.1
+"1672","March_2021","EB","EB12","Green Turf",0.5
+"1673","March_2021","EB","EB12","Hard coral",4.6
+"1674","March_2021","EB","EB12","Macroalgae",39.6
+"1675","March_2021","EB","EB12","Other",0
+"1676","March_2021","EB","EB12","Other Turf",0.2
+"1677","March_2021","EB","EB12","Other benthic invertebrates",0
+"1678","March_2021","EB","EB12","Red Turf",0
+"1679","March_2021","EB","EB12","Rubble and Rock",0
+"1680","March_2021","EB","EB12","Sand",55
+"1681","March_2021","EB","EB13","Black Turf",0.3
+"1682","March_2021","EB","EB13","Green Turf",1.1
+"1683","March_2021","EB","EB13","Hard coral",36
+"1684","March_2021","EB","EB13","Macroalgae",9.1
+"1685","March_2021","EB","EB13","Other",0
+"1686","March_2021","EB","EB13","Other Turf",1.2
+"1687","March_2021","EB","EB13","Other benthic invertebrates",0.3
+"1688","March_2021","EB","EB13","Red Turf",36.6
+"1689","March_2021","EB","EB13","Rubble and Rock",0
+"1690","March_2021","EB","EB13","Sand",15.4
+"1691","March_2021","EB","EB14","Black Turf",0.4
+"1692","March_2021","EB","EB14","Green Turf",0.5
+"1693","March_2021","EB","EB14","Hard coral",32.8
+"1694","March_2021","EB","EB14","Macroalgae",11.1
+"1695","March_2021","EB","EB14","Other",0
+"1696","March_2021","EB","EB14","Other Turf",3.8
+"1697","March_2021","EB","EB14","Other benthic invertebrates",2.9
+"1698","March_2021","EB","EB14","Red Turf",33
+"1699","March_2021","EB","EB14","Rubble and Rock",0.2
+"1700","March_2021","EB","EB14","Sand",15.3
+"1701","March_2021","EB","EB15","Black Turf",1.1
+"1702","March_2021","EB","EB15","Green Turf",0.5
+"1703","March_2021","EB","EB15","Hard coral",8.3
+"1704","March_2021","EB","EB15","Macroalgae",33.8
+"1705","March_2021","EB","EB15","Other",0
+"1706","March_2021","EB","EB15","Other Turf",10
+"1707","March_2021","EB","EB15","Other benthic invertebrates",0
+"1708","March_2021","EB","EB15","Red Turf",0.8
+"1709","March_2021","EB","EB15","Rubble and Rock",0
+"1710","March_2021","EB","EB15","Sand",45.5
+"1711","March_2021","SB","SB01","Black Turf",8.9
+"1712","March_2021","SB","SB01","Green Turf",2.5
+"1713","March_2021","SB","SB01","Hard coral",34.9
+"1714","March_2021","SB","SB01","Macroalgae",7.8
+"1715","March_2021","SB","SB01","Other",0
+"1716","March_2021","SB","SB01","Other Turf",4.4
+"1717","March_2021","SB","SB01","Other benthic invertebrates",0.8
+"1718","March_2021","SB","SB01","Red Turf",16.7
+"1719","March_2021","SB","SB01","Rubble and Rock",0
+"1720","March_2021","SB","SB01","Sand",24
+"1721","March_2021","SB","SB02","Black Turf",4.9
+"1722","March_2021","SB","SB02","Green Turf",2
+"1723","March_2021","SB","SB02","Hard coral",33.3
+"1724","March_2021","SB","SB02","Macroalgae",13
+"1725","March_2021","SB","SB02","Other",0
+"1726","March_2021","SB","SB02","Other Turf",3.6
+"1727","March_2021","SB","SB02","Other benthic invertebrates",0.6
+"1728","March_2021","SB","SB02","Red Turf",16.6
+"1729","March_2021","SB","SB02","Rubble and Rock",0.4
+"1730","March_2021","SB","SB02","Sand",25.6
+"1731","March_2021","SB","SB03","Black Turf",0.3
+"1732","March_2021","SB","SB03","Green Turf",2
+"1733","March_2021","SB","SB03","Hard coral",4.4
+"1734","March_2021","SB","SB03","Macroalgae",73.1
+"1735","March_2021","SB","SB03","Other",0
+"1736","March_2021","SB","SB03","Other Turf",2.3
+"1737","March_2021","SB","SB03","Other benthic invertebrates",0.1
+"1738","March_2021","SB","SB03","Red Turf",0.8
+"1739","March_2021","SB","SB03","Rubble and Rock",0.1
+"1740","March_2021","SB","SB03","Sand",16.9
+"1741","March_2021","SB","SB04","Black Turf",0.1
+"1742","March_2021","SB","SB04","Green Turf",0.1
+"1743","March_2021","SB","SB04","Hard coral",0
+"1744","March_2021","SB","SB04","Macroalgae",57.9
+"1745","March_2021","SB","SB04","Other",0
+"1746","March_2021","SB","SB04","Other Turf",6.5
+"1747","March_2021","SB","SB04","Other benthic invertebrates",0
+"1748","March_2021","SB","SB04","Red Turf",0.1
+"1749","March_2021","SB","SB04","Rubble and Rock",0
+"1750","March_2021","SB","SB04","Sand",35.3
+"1751","March_2021","SB","SB05","Black Turf",1.9
+"1752","March_2021","SB","SB05","Green Turf",1.2
+"1753","March_2021","SB","SB05","Hard coral",42.9
+"1754","March_2021","SB","SB05","Macroalgae",7.3
+"1755","March_2021","SB","SB05","Other",0
+"1756","March_2021","SB","SB05","Other Turf",2.1
+"1757","March_2021","SB","SB05","Other benthic invertebrates",1.1
+"1758","March_2021","SB","SB05","Red Turf",15.6
+"1759","March_2021","SB","SB05","Rubble and Rock",0.2
+"1760","March_2021","SB","SB05","Sand",27.7
+"1761","March_2021","SB","SB06","Black Turf",2.4
+"1762","March_2021","SB","SB06","Green Turf",1.1
+"1763","March_2021","SB","SB06","Hard coral",28.1
+"1764","March_2021","SB","SB06","Macroalgae",24.4
+"1765","March_2021","SB","SB06","Other",0
+"1766","March_2021","SB","SB06","Other Turf",3.8
+"1767","March_2021","SB","SB06","Other benthic invertebrates",0.3
+"1768","March_2021","SB","SB06","Red Turf",3.4
+"1769","March_2021","SB","SB06","Rubble and Rock",0.1
+"1770","March_2021","SB","SB06","Sand",36.4
+"1771","March_2021","SB","SB07","Black Turf",3.9
+"1772","March_2021","SB","SB07","Green Turf",0.8
+"1773","March_2021","SB","SB07","Hard coral",28.5
+"1774","March_2021","SB","SB07","Macroalgae",25
+"1775","March_2021","SB","SB07","Other",0
+"1776","March_2021","SB","SB07","Other Turf",3.7
+"1777","March_2021","SB","SB07","Other benthic invertebrates",0.5
+"1778","March_2021","SB","SB07","Red Turf",5.3
+"1779","March_2021","SB","SB07","Rubble and Rock",0.1
+"1780","March_2021","SB","SB07","Sand",32.2
+"1781","March_2021","SB","SB08","Black Turf",6.4
+"1782","March_2021","SB","SB08","Green Turf",1.4
+"1783","March_2021","SB","SB08","Hard coral",53.3
+"1784","March_2021","SB","SB08","Macroalgae",12.9
+"1785","March_2021","SB","SB08","Other",0
+"1786","March_2021","SB","SB08","Other Turf",2.6
+"1787","March_2021","SB","SB08","Other benthic invertebrates",0.3
+"1788","March_2021","SB","SB08","Red Turf",12.1
+"1789","March_2021","SB","SB08","Rubble and Rock",0.2
+"1790","March_2021","SB","SB08","Sand",10.8
+"1791","March_2021","SB","SB09","Black Turf",4.6
+"1792","March_2021","SB","SB09","Green Turf",1
+"1793","March_2021","SB","SB09","Hard coral",33.1
+"1794","March_2021","SB","SB09","Macroalgae",26.8
+"1795","March_2021","SB","SB09","Other",0
+"1796","March_2021","SB","SB09","Other Turf",2.5
+"1797","March_2021","SB","SB09","Other benthic invertebrates",2.1
+"1798","March_2021","SB","SB09","Red Turf",8.4
+"1799","March_2021","SB","SB09","Rubble and Rock",0
+"1800","March_2021","SB","SB09","Sand",21.5
+"1801","March_2021","SB","SB10","Black Turf",1.7
+"1802","March_2021","SB","SB10","Green Turf",0.7
+"1803","March_2021","SB","SB10","Hard coral",1.6
+"1804","March_2021","SB","SB10","Macroalgae",24
+"1805","March_2021","SB","SB10","Other",0
+"1806","March_2021","SB","SB10","Other Turf",24.8
+"1807","March_2021","SB","SB10","Other benthic invertebrates",0
+"1808","March_2021","SB","SB10","Red Turf",0.1
+"1809","March_2021","SB","SB10","Rubble and Rock",0
+"1810","March_2021","SB","SB10","Sand",47.1
+"1811","March_2021","SB","SB11","Black Turf",0
+"1812","March_2021","SB","SB11","Green Turf",0.4
+"1813","March_2021","SB","SB11","Hard coral",0
+"1814","March_2021","SB","SB11","Macroalgae",4.5
+"1815","March_2021","SB","SB11","Other",0
+"1816","March_2021","SB","SB11","Other Turf",4
+"1817","March_2021","SB","SB11","Other benthic invertebrates",0
+"1818","March_2021","SB","SB11","Red Turf",0
+"1819","March_2021","SB","SB11","Rubble and Rock",0.5
+"1820","March_2021","SB","SB11","Sand",90.6
+"1821","March_2021","SB","SB12","Black Turf",0.2
+"1822","March_2021","SB","SB12","Green Turf",1.3
+"1823","March_2021","SB","SB12","Hard coral",24.3
+"1824","March_2021","SB","SB12","Macroalgae",38.7
+"1825","March_2021","SB","SB12","Other",0
+"1826","March_2021","SB","SB12","Other Turf",0.7
+"1827","March_2021","SB","SB12","Other benthic invertebrates",0.9
+"1828","March_2021","SB","SB12","Red Turf",16.7
+"1829","March_2021","SB","SB12","Rubble and Rock",0.2
+"1830","March_2021","SB","SB12","Sand",17
+"1831","March_2021","SB","SB13","Black Turf",2
+"1832","March_2021","SB","SB13","Green Turf",0.5
+"1833","March_2021","SB","SB13","Hard coral",41.6
+"1834","March_2021","SB","SB13","Macroalgae",11.1
+"1835","March_2021","SB","SB13","Other",0
+"1836","March_2021","SB","SB13","Other Turf",1.7
+"1837","March_2021","SB","SB13","Other benthic invertebrates",0.2
+"1838","March_2021","SB","SB13","Red Turf",31.4
+"1839","March_2021","SB","SB13","Rubble and Rock",0.1
+"1840","March_2021","SB","SB13","Sand",11.4
+"1841","March_2021","SB","SB14","Black Turf",15.5
+"1842","March_2021","SB","SB14","Green Turf",1
+"1843","March_2021","SB","SB14","Hard coral",8.3
+"1844","March_2021","SB","SB14","Macroalgae",23.1
+"1845","March_2021","SB","SB14","Other",0
+"1846","March_2021","SB","SB14","Other Turf",11.7
+"1847","March_2021","SB","SB14","Other benthic invertebrates",0.5
+"1848","March_2021","SB","SB14","Red Turf",0.3
+"1849","March_2021","SB","SB14","Rubble and Rock",0.5
+"1850","March_2021","SB","SB14","Sand",39.1
+"1851","March_2021","SB","SB15","Black Turf",0.6
+"1852","March_2021","SB","SB15","Green Turf",0.1
+"1853","March_2021","SB","SB15","Hard coral",0
+"1854","March_2021","SB","SB15","Macroalgae",43.3
+"1855","March_2021","SB","SB15","Other",0
+"1856","March_2021","SB","SB15","Other Turf",7.4
+"1857","March_2021","SB","SB15","Other benthic invertebrates",0
+"1858","March_2021","SB","SB15","Red Turf",0
+"1859","March_2021","SB","SB15","Rubble and Rock",0.2
+"1860","March_2021","SB","SB15","Sand",48.4
+"1861","March_2021","SB","SB16","Black Turf",0.3
+"1862","March_2021","SB","SB16","Green Turf",0
+"1863","March_2021","SB","SB16","Hard coral",0
+"1864","March_2021","SB","SB16","Macroalgae",51.3
+"1865","March_2021","SB","SB16","Other",0
+"1866","March_2021","SB","SB16","Other Turf",21.3
+"1867","March_2021","SB","SB16","Other benthic invertebrates",0
+"1868","March_2021","SB","SB16","Red Turf",0
+"1869","March_2021","SB","SB16","Rubble and Rock",0
+"1870","March_2021","SB","SB16","Sand",27.1
+"1871","March_2021","SB","SB17","Black Turf",1.4
+"1872","March_2021","SB","SB17","Green Turf",1.3
+"1873","March_2021","SB","SB17","Hard coral",57.6
+"1874","March_2021","SB","SB17","Macroalgae",19.7
+"1875","March_2021","SB","SB17","Other",0
+"1876","March_2021","SB","SB17","Other Turf",3.5
+"1877","March_2021","SB","SB17","Other benthic invertebrates",0.4
+"1878","March_2021","SB","SB17","Red Turf",2.5
+"1879","March_2021","SB","SB17","Rubble and Rock",0.3
+"1880","March_2021","SB","SB17","Sand",13.3
+"1881","March_2021","SB","SB18","Black Turf",3
+"1882","March_2021","SB","SB18","Green Turf",1.3
+"1883","March_2021","SB","SB18","Hard coral",46.6
+"1884","March_2021","SB","SB18","Macroalgae",25
+"1885","March_2021","SB","SB18","Other",0
+"1886","March_2021","SB","SB18","Other Turf",3.7
+"1887","March_2021","SB","SB18","Other benthic invertebrates",1.3
+"1888","March_2021","SB","SB18","Red Turf",4.1
+"1889","March_2021","SB","SB18","Rubble and Rock",1.4
+"1890","March_2021","SB","SB18","Sand",13.6
+"1891","March_2021","SB","SB19","Black Turf",1.8
+"1892","March_2021","SB","SB19","Green Turf",0.9
+"1893","March_2021","SB","SB19","Hard coral",60.1
+"1894","March_2021","SB","SB19","Macroalgae",14
+"1895","March_2021","SB","SB19","Other",0
+"1896","March_2021","SB","SB19","Other Turf",5.7
+"1897","March_2021","SB","SB19","Other benthic invertebrates",2
+"1898","March_2021","SB","SB19","Red Turf",5.2
+"1899","March_2021","SB","SB19","Rubble and Rock",1.2
+"1900","March_2021","SB","SB19","Sand",9.1
+"1901","March_2021","SB","SB20","Black Turf",2.7
+"1902","March_2021","SB","SB20","Green Turf",3.7
+"1903","March_2021","SB","SB20","Hard coral",31.1
+"1904","March_2021","SB","SB20","Macroalgae",22.4
+"1905","March_2021","SB","SB20","Other",0
+"1906","March_2021","SB","SB20","Other Turf",10.8
+"1907","March_2021","SB","SB20","Other benthic invertebrates",0.8
+"1908","March_2021","SB","SB20","Red Turf",3
+"1909","March_2021","SB","SB20","Rubble and Rock",2.8
+"1910","March_2021","SB","SB20","Sand",22.7
+"1911","March_2021","SB","SB21","Black Turf",2.4
+"1912","March_2021","SB","SB21","Green Turf",1.8
+"1913","March_2021","SB","SB21","Hard coral",17.2
+"1914","March_2021","SB","SB21","Macroalgae",5.5
+"1915","March_2021","SB","SB21","Other",0
+"1916","March_2021","SB","SB21","Other Turf",30.8
+"1917","March_2021","SB","SB21","Other benthic invertebrates",0.1
+"1918","March_2021","SB","SB21","Red Turf",0.3
+"1919","March_2021","SB","SB21","Rubble and Rock",0.7
+"1920","March_2021","SB","SB21","Sand",41.2
+"1921","March_2021","SB","SB22","Black Turf",14.3
+"1922","March_2021","SB","SB22","Green Turf",1.7
+"1923","March_2021","SB","SB22","Hard coral",30.1
+"1924","March_2021","SB","SB22","Macroalgae",19.3
+"1925","March_2021","SB","SB22","Other",0
+"1926","March_2021","SB","SB22","Other Turf",7.7
+"1927","March_2021","SB","SB22","Other benthic invertebrates",1.3
+"1928","March_2021","SB","SB22","Red Turf",4.1
+"1929","March_2021","SB","SB22","Rubble and Rock",1.8
+"1930","March_2021","SB","SB22","Sand",19.7
+"1931","March_2021","SB","SB23","Black Turf",1.9
+"1932","March_2021","SB","SB23","Green Turf",0.1
+"1933","March_2021","SB","SB23","Hard coral",0
+"1934","March_2021","SB","SB23","Macroalgae",70.6
+"1935","March_2021","SB","SB23","Other",0
+"1936","March_2021","SB","SB23","Other Turf",10.8
+"1937","March_2021","SB","SB23","Other benthic invertebrates",0
+"1938","March_2021","SB","SB23","Red Turf",0
+"1939","March_2021","SB","SB23","Rubble and Rock",0
+"1940","March_2021","SB","SB23","Sand",16.6
+"1941","March_2021","SB","SB24","Black Turf",3.4
+"1942","March_2021","SB","SB24","Green Turf",0.2
+"1943","March_2021","SB","SB24","Hard coral",4
+"1944","March_2021","SB","SB24","Macroalgae",43.9
+"1945","March_2021","SB","SB24","Other",0.2
+"1946","March_2021","SB","SB24","Other Turf",12.4
+"1947","March_2021","SB","SB24","Other benthic invertebrates",0.5
+"1948","March_2021","SB","SB24","Red Turf",1.5
+"1949","March_2021","SB","SB24","Rubble and Rock",0.9
+"1950","March_2021","SB","SB24","Sand",33
+"1951","March_2021","SB","SB25","Black Turf",17.8
+"1952","March_2021","SB","SB25","Green Turf",0.8
+"1953","March_2021","SB","SB25","Hard coral",5.7
+"1954","March_2021","SB","SB25","Macroalgae",10.5
+"1955","March_2021","SB","SB25","Other",0
+"1956","March_2021","SB","SB25","Other Turf",3
+"1957","March_2021","SB","SB25","Other benthic invertebrates",0.6
+"1958","March_2021","SB","SB25","Red Turf",1.5
+"1959","March_2021","SB","SB25","Rubble and Rock",5.6
+"1960","March_2021","SB","SB25","Sand",54.5
+"1961","March_2023","CE","EM1","Black Turf",2
+"1962","March_2023","CE","EM1","Green Turf",1
+"1963","March_2023","CE","EM1","Hard coral",63.2
+"1964","March_2023","CE","EM1","Macroalgae",10.6
+"1965","March_2023","CE","EM1","Other",0
+"1966","March_2023","CE","EM1","Other Turf",14.3
+"1967","March_2023","CE","EM1","Other benthic invertebrates",1.4
+"1968","March_2023","CE","EM1","Red Turf",0.4
+"1969","March_2023","CE","EM1","Rubble and Rock",0.2
+"1970","March_2023","CE","EM1","Sand",6.9
+"1971","March_2023","CE","EM10","Black Turf",0
+"1972","March_2023","CE","EM10","Green Turf",1.8
+"1973","March_2023","CE","EM10","Hard coral",11.1
+"1974","March_2023","CE","EM10","Macroalgae",16
+"1975","March_2023","CE","EM10","Other",0
+"1976","March_2023","CE","EM10","Other Turf",3.8
+"1977","March_2023","CE","EM10","Other benthic invertebrates",1.5
+"1978","March_2023","CE","EM10","Red Turf",0.3
+"1979","March_2023","CE","EM10","Rubble and Rock",2.5
+"1980","March_2023","CE","EM10","Sand",63
+"1981","March_2023","CE","EM2","Black Turf",0.1
+"1982","March_2023","CE","EM2","Green Turf",0.2
+"1983","March_2023","CE","EM2","Hard coral",15.1
+"1984","March_2023","CE","EM2","Macroalgae",23.2
+"1985","March_2023","CE","EM2","Other",0
+"1986","March_2023","CE","EM2","Other Turf",3.5
+"1987","March_2023","CE","EM2","Other benthic invertebrates",4.3
+"1988","March_2023","CE","EM2","Red Turf",0
+"1989","March_2023","CE","EM2","Rubble and Rock",1.8
+"1990","March_2023","CE","EM2","Sand",51.8
+"1991","March_2023","CE","EM3","Black Turf",0.9
+"1992","March_2023","CE","EM3","Green Turf",0.6
+"1993","March_2023","CE","EM3","Hard coral",27.9
+"1994","March_2023","CE","EM3","Macroalgae",17.8
+"1995","March_2023","CE","EM3","Other",0
+"1996","March_2023","CE","EM3","Other Turf",19.4
+"1997","March_2023","CE","EM3","Other benthic invertebrates",9.6
+"1998","March_2023","CE","EM3","Red Turf",2.6
+"1999","March_2023","CE","EM3","Rubble and Rock",1.3
+"2000","March_2023","CE","EM3","Sand",19.9
+"2001","March_2023","CE","EM4","Black Turf",0.4
+"2002","March_2023","CE","EM4","Green Turf",0.7
+"2003","March_2023","CE","EM4","Hard coral",38.9
+"2004","March_2023","CE","EM4","Macroalgae",13.6
+"2005","March_2023","CE","EM4","Other",0
+"2006","March_2023","CE","EM4","Other Turf",4.7
+"2007","March_2023","CE","EM4","Other benthic invertebrates",6
+"2008","March_2023","CE","EM4","Red Turf",11.1
+"2009","March_2023","CE","EM4","Rubble and Rock",1.3
+"2010","March_2023","CE","EM4","Sand",23.3
+"2011","March_2023","CE","EM5","Black Turf",0.2
+"2012","March_2023","CE","EM5","Green Turf",2.2
+"2013","March_2023","CE","EM5","Hard coral",9.9
+"2014","March_2023","CE","EM5","Macroalgae",20.3
+"2015","March_2023","CE","EM5","Other",0
+"2016","March_2023","CE","EM5","Other Turf",4
+"2017","March_2023","CE","EM5","Other benthic invertebrates",6.5
+"2018","March_2023","CE","EM5","Red Turf",10.4
+"2019","March_2023","CE","EM5","Rubble and Rock",0.2
+"2020","March_2023","CE","EM5","Sand",46.3
+"2021","March_2023","CE","EM6","Black Turf",0.3
+"2022","March_2023","CE","EM6","Green Turf",1.5
+"2023","March_2023","CE","EM6","Hard coral",13.3
+"2024","March_2023","CE","EM6","Macroalgae",15
+"2025","March_2023","CE","EM6","Other",0
+"2026","March_2023","CE","EM6","Other Turf",4.5
+"2027","March_2023","CE","EM6","Other benthic invertebrates",9.5
+"2028","March_2023","CE","EM6","Red Turf",7.5
+"2029","March_2023","CE","EM6","Rubble and Rock",2.2
+"2030","March_2023","CE","EM6","Sand",46.2
+"2031","March_2023","CE","EM7","Black Turf",0
+"2032","March_2023","CE","EM7","Green Turf",2
+"2033","March_2023","CE","EM7","Hard coral",56.3
+"2034","March_2023","CE","EM7","Macroalgae",8.3
+"2035","March_2023","CE","EM7","Other",0
+"2036","March_2023","CE","EM7","Other Turf",5.4
+"2037","March_2023","CE","EM7","Other benthic invertebrates",0.2
+"2038","March_2023","CE","EM7","Red Turf",8.4
+"2039","March_2023","CE","EM7","Rubble and Rock",1.1
+"2040","March_2023","CE","EM7","Sand",18.3
+"2041","March_2023","CE","EM8","Black Turf",4.8
+"2042","March_2023","CE","EM8","Green Turf",1
+"2043","March_2023","CE","EM8","Hard coral",22.6
+"2044","March_2023","CE","EM8","Macroalgae",26
+"2045","March_2023","CE","EM8","Other",0
+"2046","March_2023","CE","EM8","Other Turf",9.2
+"2047","March_2023","CE","EM8","Other benthic invertebrates",0.3
+"2048","March_2023","CE","EM8","Red Turf",10.7
+"2049","March_2023","CE","EM8","Rubble and Rock",1.3
+"2050","March_2023","CE","EM8","Sand",24.1
+"2051","March_2023","CE","EM9","Black Turf",0.1
+"2052","March_2023","CE","EM9","Green Turf",0.8
+"2053","March_2023","CE","EM9","Hard coral",0
+"2054","March_2023","CE","EM9","Macroalgae",11.4
+"2055","March_2023","CE","EM9","Other",0
+"2056","March_2023","CE","EM9","Other Turf",1.6
+"2057","March_2023","CE","EM9","Other benthic invertebrates",0.1
+"2058","March_2023","CE","EM9","Red Turf",1.2
+"2059","March_2023","CE","EM9","Rubble and Rock",3.4
+"2060","March_2023","CE","EM9","Sand",81.4
+"2061","March_2023","EB","EB1","Black Turf",0.5
+"2062","March_2023","EB","EB1","Green Turf",1
+"2063","March_2023","EB","EB1","Hard coral",41.1
+"2064","March_2023","EB","EB1","Macroalgae",13.5
+"2065","March_2023","EB","EB1","Other",0
+"2066","March_2023","EB","EB1","Other Turf",5.3
+"2067","March_2023","EB","EB1","Other benthic invertebrates",2.5
+"2068","March_2023","EB","EB1","Red Turf",18.3
+"2069","March_2023","EB","EB1","Rubble and Rock",0
+"2070","March_2023","EB","EB1","Sand",17.8
+"2071","March_2023","EB","EB10","Black Turf",3.3
+"2072","March_2023","EB","EB10","Green Turf",0.8
+"2073","March_2023","EB","EB10","Hard coral",46.3
+"2074","March_2023","EB","EB10","Macroalgae",5.2
+"2075","March_2023","EB","EB10","Other",0
+"2076","March_2023","EB","EB10","Other Turf",9.7
+"2077","March_2023","EB","EB10","Other benthic invertebrates",0.3
+"2078","March_2023","EB","EB10","Red Turf",9.4
+"2079","March_2023","EB","EB10","Rubble and Rock",0.3
+"2080","March_2023","EB","EB10","Sand",24.7
+"2081","March_2023","EB","EB11","Black Turf",7
+"2082","March_2023","EB","EB11","Green Turf",3.7
+"2083","March_2023","EB","EB11","Hard coral",34
+"2084","March_2023","EB","EB11","Macroalgae",15.4
+"2085","March_2023","EB","EB11","Other",0
+"2086","March_2023","EB","EB11","Other Turf",6.6
+"2087","March_2023","EB","EB11","Other benthic invertebrates",0.8
+"2088","March_2023","EB","EB11","Red Turf",10
+"2089","March_2023","EB","EB11","Rubble and Rock",0.2
+"2090","March_2023","EB","EB11","Sand",22.3
+"2091","March_2023","EB","EB12","Black Turf",0.1
+"2092","March_2023","EB","EB12","Green Turf",0.3
+"2093","March_2023","EB","EB12","Hard coral",64.6
+"2094","March_2023","EB","EB12","Macroalgae",9
+"2095","March_2023","EB","EB12","Other",0
+"2096","March_2023","EB","EB12","Other Turf",3.1
+"2097","March_2023","EB","EB12","Other benthic invertebrates",2.4
+"2098","March_2023","EB","EB12","Red Turf",4.3
+"2099","March_2023","EB","EB12","Rubble and Rock",0.6
+"2100","March_2023","EB","EB12","Sand",15.6
+"2101","March_2023","EB","EB13","Black Turf",4.5
+"2102","March_2023","EB","EB13","Green Turf",0.1
+"2103","March_2023","EB","EB13","Hard coral",0
+"2104","March_2023","EB","EB13","Macroalgae",8.3
+"2105","March_2023","EB","EB13","Other",0
+"2106","March_2023","EB","EB13","Other Turf",19.9
+"2107","March_2023","EB","EB13","Other benthic invertebrates",0
+"2108","March_2023","EB","EB13","Red Turf",2.4
+"2109","March_2023","EB","EB13","Rubble and Rock",11.2
+"2110","March_2023","EB","EB13","Sand",53.6
+"2111","March_2023","EB","EB14","Black Turf",0.7
+"2112","March_2023","EB","EB14","Green Turf",0.5
+"2113","March_2023","EB","EB14","Hard coral",61.5
+"2114","March_2023","EB","EB14","Macroalgae",9.9
+"2115","March_2023","EB","EB14","Other",0
+"2116","March_2023","EB","EB14","Other Turf",6
+"2117","March_2023","EB","EB14","Other benthic invertebrates",1
+"2118","March_2023","EB","EB14","Red Turf",4.5
+"2119","March_2023","EB","EB14","Rubble and Rock",0.1
+"2120","March_2023","EB","EB14","Sand",15.8
+"2121","March_2023","EB","EB15","Black Turf",4.9
+"2122","March_2023","EB","EB15","Green Turf",0.9
+"2123","March_2023","EB","EB15","Hard coral",18.6
+"2124","March_2023","EB","EB15","Macroalgae",21.7
+"2125","March_2023","EB","EB15","Other",0
+"2126","March_2023","EB","EB15","Other Turf",7
+"2127","March_2023","EB","EB15","Other benthic invertebrates",0.3
+"2128","March_2023","EB","EB15","Red Turf",14.5
+"2129","March_2023","EB","EB15","Rubble and Rock",0.2
+"2130","March_2023","EB","EB15","Sand",31.9
+"2131","March_2023","EB","EB16","Black Turf",2.5
+"2132","March_2023","EB","EB16","Green Turf",0.9
+"2133","March_2023","EB","EB16","Hard coral",15.1
+"2134","March_2023","EB","EB16","Macroalgae",21.6
+"2135","March_2023","EB","EB16","Other",0
+"2136","March_2023","EB","EB16","Other Turf",46.7
+"2137","March_2023","EB","EB16","Other benthic invertebrates",1.3
+"2138","March_2023","EB","EB16","Red Turf",0.5
+"2139","March_2023","EB","EB16","Rubble and Rock",2.1
+"2140","March_2023","EB","EB16","Sand",9.3
+"2141","March_2023","EB","EB17","Black Turf",6
+"2142","March_2023","EB","EB17","Green Turf",0.6
+"2143","March_2023","EB","EB17","Hard coral",14
+"2144","March_2023","EB","EB17","Macroalgae",29.4
+"2145","March_2023","EB","EB17","Other",0
+"2146","March_2023","EB","EB17","Other Turf",33.5
+"2147","March_2023","EB","EB17","Other benthic invertebrates",0.4
+"2148","March_2023","EB","EB17","Red Turf",0.4
+"2149","March_2023","EB","EB17","Rubble and Rock",1.7
+"2150","March_2023","EB","EB17","Sand",14
+"2151","March_2023","EB","EB18","Black Turf",2.4
+"2152","March_2023","EB","EB18","Green Turf",0.5
+"2153","March_2023","EB","EB18","Hard coral",48.4
+"2154","March_2023","EB","EB18","Macroalgae",17.5
+"2155","March_2023","EB","EB18","Other",0
+"2156","March_2023","EB","EB18","Other Turf",21.8
+"2157","March_2023","EB","EB18","Other benthic invertebrates",0.5
+"2158","March_2023","EB","EB18","Red Turf",1.2
+"2159","March_2023","EB","EB18","Rubble and Rock",0.7
+"2160","March_2023","EB","EB18","Sand",7
+"2161","March_2023","EB","EB19","Black Turf",2.8
+"2162","March_2023","EB","EB19","Green Turf",0.4
+"2163","March_2023","EB","EB19","Hard coral",40.3
+"2164","March_2023","EB","EB19","Macroalgae",25.5
+"2165","March_2023","EB","EB19","Other",0
+"2166","March_2023","EB","EB19","Other Turf",16.8
+"2167","March_2023","EB","EB19","Other benthic invertebrates",1.4
+"2168","March_2023","EB","EB19","Red Turf",2.4
+"2169","March_2023","EB","EB19","Rubble and Rock",0.2
+"2170","March_2023","EB","EB19","Sand",10.2
+"2171","March_2023","EB","EB2","Black Turf",0.2
+"2172","March_2023","EB","EB2","Green Turf",0.3
+"2173","March_2023","EB","EB2","Hard coral",50.6
+"2174","March_2023","EB","EB2","Macroalgae",11.9
+"2175","March_2023","EB","EB2","Other",0.1
+"2176","March_2023","EB","EB2","Other Turf",7.7
+"2177","March_2023","EB","EB2","Other benthic invertebrates",1.1
+"2178","March_2023","EB","EB2","Red Turf",12.6
+"2179","March_2023","EB","EB2","Rubble and Rock",0.2
+"2180","March_2023","EB","EB2","Sand",15.3
+"2181","March_2023","EB","EB20","Black Turf",1.2
+"2182","March_2023","EB","EB20","Green Turf",0.2
+"2183","March_2023","EB","EB20","Hard coral",16.7
+"2184","March_2023","EB","EB20","Macroalgae",32.3
+"2185","March_2023","EB","EB20","Other",0
+"2186","March_2023","EB","EB20","Other Turf",19.4
+"2187","March_2023","EB","EB20","Other benthic invertebrates",2.1
+"2188","March_2023","EB","EB20","Red Turf",4
+"2189","March_2023","EB","EB20","Rubble and Rock",16.6
+"2190","March_2023","EB","EB20","Sand",7.5
+"2191","March_2023","EB","EB21","Black Turf",1.3
+"2192","March_2023","EB","EB21","Green Turf",0.2
+"2193","March_2023","EB","EB21","Hard coral",66.2
+"2194","March_2023","EB","EB21","Macroalgae",6.5
+"2195","March_2023","EB","EB21","Other",0
+"2196","March_2023","EB","EB21","Other Turf",22
+"2197","March_2023","EB","EB21","Other benthic invertebrates",0.1
+"2198","March_2023","EB","EB21","Red Turf",0.7
+"2199","March_2023","EB","EB21","Rubble and Rock",0.1
+"2200","March_2023","EB","EB21","Sand",2.9
+"2201","March_2023","EB","EB22","Black Turf",4.1
+"2202","March_2023","EB","EB22","Green Turf",0.1
+"2203","March_2023","EB","EB22","Hard coral",27.3
+"2204","March_2023","EB","EB22","Macroalgae",38.5
+"2205","March_2023","EB","EB22","Other",0
+"2206","March_2023","EB","EB22","Other Turf",25.9
+"2207","March_2023","EB","EB22","Other benthic invertebrates",0.4
+"2208","March_2023","EB","EB22","Red Turf",1.8
+"2209","March_2023","EB","EB22","Rubble and Rock",0
+"2210","March_2023","EB","EB22","Sand",1.9
+"2211","March_2023","EB","EB23","Black Turf",7.5
+"2212","March_2023","EB","EB23","Green Turf",0.8
+"2213","March_2023","EB","EB23","Hard coral",51.6
+"2214","March_2023","EB","EB23","Macroalgae",9.4
+"2215","March_2023","EB","EB23","Other",0
+"2216","March_2023","EB","EB23","Other Turf",26.4
+"2217","March_2023","EB","EB23","Other benthic invertebrates",0
+"2218","March_2023","EB","EB23","Red Turf",2.4
+"2219","March_2023","EB","EB23","Rubble and Rock",0.1
+"2220","March_2023","EB","EB23","Sand",1.8
+"2221","March_2023","EB","EB24","Black Turf",11
+"2222","March_2023","EB","EB24","Green Turf",0
+"2223","March_2023","EB","EB24","Hard coral",25
+"2224","March_2023","EB","EB24","Macroalgae",9.1
+"2225","March_2023","EB","EB24","Other",0
+"2226","March_2023","EB","EB24","Other Turf",17.6
+"2227","March_2023","EB","EB24","Other benthic invertebrates",0.6
+"2228","March_2023","EB","EB24","Red Turf",7.2
+"2229","March_2023","EB","EB24","Rubble and Rock",1.5
+"2230","March_2023","EB","EB24","Sand",28
+"2231","March_2023","EB","EB3","Black Turf",7
+"2232","March_2023","EB","EB3","Green Turf",0.1
+"2233","March_2023","EB","EB3","Hard coral",43.3
+"2234","March_2023","EB","EB3","Macroalgae",18.6
+"2235","March_2023","EB","EB3","Other",0
+"2236","March_2023","EB","EB3","Other Turf",6.8
+"2237","March_2023","EB","EB3","Other benthic invertebrates",1.6
+"2238","March_2023","EB","EB3","Red Turf",8.9
+"2239","March_2023","EB","EB3","Rubble and Rock",0.1
+"2240","March_2023","EB","EB3","Sand",13.6
+"2241","March_2023","EB","EB4","Black Turf",0.9
+"2242","March_2023","EB","EB4","Green Turf",1.3
+"2243","March_2023","EB","EB4","Hard coral",51.8
+"2244","March_2023","EB","EB4","Macroalgae",8.9
+"2245","March_2023","EB","EB4","Other",0
+"2246","March_2023","EB","EB4","Other Turf",5.9
+"2247","March_2023","EB","EB4","Other benthic invertebrates",0.6
+"2248","March_2023","EB","EB4","Red Turf",6.2
+"2249","March_2023","EB","EB4","Rubble and Rock",0.3
+"2250","March_2023","EB","EB4","Sand",24.1
+"2251","March_2023","EB","EB5","Black Turf",5.7
+"2252","March_2023","EB","EB5","Green Turf",1
+"2253","March_2023","EB","EB5","Hard coral",34.7
+"2254","March_2023","EB","EB5","Macroalgae",18.2
+"2255","March_2023","EB","EB5","Other",0
+"2256","March_2023","EB","EB5","Other Turf",9.8
+"2257","March_2023","EB","EB5","Other benthic invertebrates",1.4
+"2258","March_2023","EB","EB5","Red Turf",6.5
+"2259","March_2023","EB","EB5","Rubble and Rock",0.1
+"2260","March_2023","EB","EB5","Sand",22.6
+"2261","March_2023","EB","EB6","Black Turf",3.1
+"2262","March_2023","EB","EB6","Green Turf",1.1
+"2263","March_2023","EB","EB6","Hard coral",50.8
+"2264","March_2023","EB","EB6","Macroalgae",24.1
+"2265","March_2023","EB","EB6","Other",0
+"2266","March_2023","EB","EB6","Other Turf",5.9
+"2267","March_2023","EB","EB6","Other benthic invertebrates",0.1
+"2268","March_2023","EB","EB6","Red Turf",2.2
+"2269","March_2023","EB","EB6","Rubble and Rock",0.2
+"2270","March_2023","EB","EB6","Sand",12.5
+"2271","March_2023","EB","EB7","Black Turf",2.4
+"2272","March_2023","EB","EB7","Green Turf",0.3
+"2273","March_2023","EB","EB7","Hard coral",15.5
+"2274","March_2023","EB","EB7","Macroalgae",23.9
+"2275","March_2023","EB","EB7","Other",0
+"2276","March_2023","EB","EB7","Other Turf",5
+"2277","March_2023","EB","EB7","Other benthic invertebrates",0.3
+"2278","March_2023","EB","EB7","Red Turf",13
+"2279","March_2023","EB","EB7","Rubble and Rock",0.1
+"2280","March_2023","EB","EB7","Sand",39.5
+"2281","March_2023","EB","EB8","Black Turf",2.3
+"2282","March_2023","EB","EB8","Green Turf",0.5
+"2283","March_2023","EB","EB8","Hard coral",56.5
+"2284","March_2023","EB","EB8","Macroalgae",20.3
+"2285","March_2023","EB","EB8","Other",0
+"2286","March_2023","EB","EB8","Other Turf",4.2
+"2287","March_2023","EB","EB8","Other benthic invertebrates",0.6
+"2288","March_2023","EB","EB8","Red Turf",1.2
+"2289","March_2023","EB","EB8","Rubble and Rock",0.1
+"2290","March_2023","EB","EB8","Sand",14.3
+"2291","March_2023","EB","EB9","Black Turf",16.2
+"2292","March_2023","EB","EB9","Green Turf",0.9
+"2293","March_2023","EB","EB9","Hard coral",22.4
+"2294","March_2023","EB","EB9","Macroalgae",22.5
+"2295","March_2023","EB","EB9","Other",0
+"2296","March_2023","EB","EB9","Other Turf",3.4
+"2297","March_2023","EB","EB9","Other benthic invertebrates",0.6
+"2298","March_2023","EB","EB9","Red Turf",6.9
+"2299","March_2023","EB","EB9","Rubble and Rock",1.1
+"2300","March_2023","EB","EB9","Sand",26
+"2301","March_2023","SB","SB1","Black Turf",2.3
+"2302","March_2023","SB","SB1","Green Turf",0.3
+"2303","March_2023","SB","SB1","Hard coral",31.8
+"2304","March_2023","SB","SB1","Macroalgae",38.8
+"2305","March_2023","SB","SB1","Other",0
+"2306","March_2023","SB","SB1","Other Turf",1.6
+"2307","March_2023","SB","SB1","Other benthic invertebrates",0.7
+"2308","March_2023","SB","SB1","Red Turf",8.1
+"2309","March_2023","SB","SB1","Rubble and Rock",0
+"2310","March_2023","SB","SB1","Sand",16.4
+"2311","March_2023","SB","SB10","Black Turf",3.7
+"2312","March_2023","SB","SB10","Green Turf",1.4
+"2313","March_2023","SB","SB10","Hard coral",28.4
+"2314","March_2023","SB","SB10","Macroalgae",28.8
+"2315","March_2023","SB","SB10","Other",0
+"2316","March_2023","SB","SB10","Other Turf",9.5
+"2317","March_2023","SB","SB10","Other benthic invertebrates",1.8
+"2318","March_2023","SB","SB10","Red Turf",9.9
+"2319","March_2023","SB","SB10","Rubble and Rock",1.8
+"2320","March_2023","SB","SB10","Sand",14.7
+"2321","March_2023","SB","SB11","Black Turf",1.6
+"2322","March_2023","SB","SB11","Green Turf",0.2
+"2323","March_2023","SB","SB11","Hard coral",72.3
+"2324","March_2023","SB","SB11","Macroalgae",3.8
+"2325","March_2023","SB","SB11","Other",0
+"2326","March_2023","SB","SB11","Other Turf",7.9
+"2327","March_2023","SB","SB11","Other benthic invertebrates",0.3
+"2328","March_2023","SB","SB11","Red Turf",3.2
+"2329","March_2023","SB","SB11","Rubble and Rock",1.7
+"2330","March_2023","SB","SB11","Sand",9
+"2331","March_2023","SB","SB12","Black Turf",0.5
+"2332","March_2023","SB","SB12","Green Turf",1
+"2333","March_2023","SB","SB12","Hard coral",48.4
+"2334","March_2023","SB","SB12","Macroalgae",12
+"2335","March_2023","SB","SB12","Other",0
+"2336","March_2023","SB","SB12","Other Turf",4.1
+"2337","March_2023","SB","SB12","Other benthic invertebrates",5.5
+"2338","March_2023","SB","SB12","Red Turf",5.1
+"2339","March_2023","SB","SB12","Rubble and Rock",0.2
+"2340","March_2023","SB","SB12","Sand",23.2
+"2341","March_2023","SB","SB13","Black Turf",0.2
+"2342","March_2023","SB","SB13","Green Turf",1
+"2343","March_2023","SB","SB13","Hard coral",0
+"2344","March_2023","SB","SB13","Macroalgae",18.9
+"2345","March_2023","SB","SB13","Other",0
+"2346","March_2023","SB","SB13","Other Turf",0.7
+"2347","March_2023","SB","SB13","Other benthic invertebrates",0
+"2348","March_2023","SB","SB13","Red Turf",0.3
+"2349","March_2023","SB","SB13","Rubble and Rock",1
+"2350","March_2023","SB","SB13","Sand",77.9
+"2351","March_2023","SB","SB14","Black Turf",0
+"2352","March_2023","SB","SB14","Green Turf",0.8
+"2353","March_2023","SB","SB14","Hard coral",0.1
+"2354","March_2023","SB","SB14","Macroalgae",17.2
+"2355","March_2023","SB","SB14","Other",0
+"2356","March_2023","SB","SB14","Other Turf",5.2
+"2357","March_2023","SB","SB14","Other benthic invertebrates",0
+"2358","March_2023","SB","SB14","Red Turf",0.5
+"2359","March_2023","SB","SB14","Rubble and Rock",3.2
+"2360","March_2023","SB","SB14","Sand",73
+"2361","March_2023","SB","SB15","Black Turf",7.8
+"2362","March_2023","SB","SB15","Green Turf",0.8
+"2363","March_2023","SB","SB15","Hard coral",7.9
+"2364","March_2023","SB","SB15","Macroalgae",37.5
+"2365","March_2023","SB","SB15","Other",0
+"2366","March_2023","SB","SB15","Other Turf",4.2
+"2367","March_2023","SB","SB15","Other benthic invertebrates",1.1
+"2368","March_2023","SB","SB15","Red Turf",10.6
+"2369","March_2023","SB","SB15","Rubble and Rock",0
+"2370","March_2023","SB","SB15","Sand",30.1
+"2371","March_2023","SB","SB16","Black Turf",0.1
+"2372","March_2023","SB","SB16","Green Turf",0
+"2373","March_2023","SB","SB16","Hard coral",0
+"2374","March_2023","SB","SB16","Macroalgae",33.7
+"2375","March_2023","SB","SB16","Other",0
+"2376","March_2023","SB","SB16","Other Turf",0.4
+"2377","March_2023","SB","SB16","Other benthic invertebrates",0.2
+"2378","March_2023","SB","SB16","Red Turf",0.1
+"2379","March_2023","SB","SB16","Rubble and Rock",0
+"2380","March_2023","SB","SB16","Sand",65.5
+"2381","March_2023","SB","SB17","Black Turf",0.2
+"2382","March_2023","SB","SB17","Green Turf",0.7
+"2383","March_2023","SB","SB17","Hard coral",64.7
+"2384","March_2023","SB","SB17","Macroalgae",11.8
+"2385","March_2023","SB","SB17","Other",0
+"2386","March_2023","SB","SB17","Other Turf",1.6
+"2387","March_2023","SB","SB17","Other benthic invertebrates",0.7
+"2388","March_2023","SB","SB17","Red Turf",5.2
+"2389","March_2023","SB","SB17","Rubble and Rock",4.7
+"2390","March_2023","SB","SB17","Sand",10.4
+"2391","March_2023","SB","SB18","Black Turf",3.3
+"2392","March_2023","SB","SB18","Green Turf",2.6
+"2393","March_2023","SB","SB18","Hard coral",28.7
+"2394","March_2023","SB","SB18","Macroalgae",18.2
+"2395","March_2023","SB","SB18","Other",0
+"2396","March_2023","SB","SB18","Other Turf",5.2
+"2397","March_2023","SB","SB18","Other benthic invertebrates",0.8
+"2398","March_2023","SB","SB18","Red Turf",18.8
+"2399","March_2023","SB","SB18","Rubble and Rock",0
+"2400","March_2023","SB","SB18","Sand",22.4
+"2401","March_2023","SB","SB19","Black Turf",4
+"2402","March_2023","SB","SB19","Green Turf",1.2
+"2403","March_2023","SB","SB19","Hard coral",26.8
+"2404","March_2023","SB","SB19","Macroalgae",20.8
+"2405","March_2023","SB","SB19","Other",0
+"2406","March_2023","SB","SB19","Other Turf",8
+"2407","March_2023","SB","SB19","Other benthic invertebrates",1.6
+"2408","March_2023","SB","SB19","Red Turf",14.7
+"2409","March_2023","SB","SB19","Rubble and Rock",0.2
+"2410","March_2023","SB","SB19","Sand",22.7
+"2411","March_2023","SB","SB20","Black Turf",19.2
+"2412","March_2023","SB","SB20","Green Turf",0.8
+"2413","March_2023","SB","SB20","Hard coral",7.3
+"2414","March_2023","SB","SB20","Macroalgae",30.7
+"2415","March_2023","SB","SB20","Other",0
+"2416","March_2023","SB","SB20","Other Turf",5.8
+"2417","March_2023","SB","SB20","Other benthic invertebrates",1
+"2418","March_2023","SB","SB20","Red Turf",13.3
+"2419","March_2023","SB","SB20","Rubble and Rock",7.8
+"2420","March_2023","SB","SB20","Sand",14.1
+"2421","March_2023","SB","SB21","Black Turf",14.9
+"2422","March_2023","SB","SB21","Green Turf",0.3
+"2423","March_2023","SB","SB21","Hard coral",27.6
+"2424","March_2023","SB","SB21","Macroalgae",28.1
+"2425","March_2023","SB","SB21","Other",0
+"2426","March_2023","SB","SB21","Other Turf",6.7
+"2427","March_2023","SB","SB21","Other benthic invertebrates",0.2
+"2428","March_2023","SB","SB21","Red Turf",10.4
+"2429","March_2023","SB","SB21","Rubble and Rock",0.5
+"2430","March_2023","SB","SB21","Sand",11.3
+"2431","March_2023","SB","SB22","Black Turf",13
+"2432","March_2023","SB","SB22","Green Turf",0.7
+"2433","March_2023","SB","SB22","Hard coral",28.5
+"2434","March_2023","SB","SB22","Macroalgae",27.4
+"2435","March_2023","SB","SB22","Other",0
+"2436","March_2023","SB","SB22","Other Turf",6.1
+"2437","March_2023","SB","SB22","Other benthic invertebrates",1
+"2438","March_2023","SB","SB22","Red Turf",11.9
+"2439","March_2023","SB","SB22","Rubble and Rock",0.6
+"2440","March_2023","SB","SB22","Sand",10.8
+"2441","March_2023","SB","SB23","Black Turf",1
+"2442","March_2023","SB","SB23","Green Turf",0.3
+"2443","March_2023","SB","SB23","Hard coral",47.9
+"2444","March_2023","SB","SB23","Macroalgae",18.7
+"2445","March_2023","SB","SB23","Other",0
+"2446","March_2023","SB","SB23","Other Turf",1.4
+"2447","March_2023","SB","SB23","Other benthic invertebrates",0.4
+"2448","March_2023","SB","SB23","Red Turf",11
+"2449","March_2023","SB","SB23","Rubble and Rock",0.2
+"2450","March_2023","SB","SB23","Sand",19.1
+"2451","March_2023","SB","SB24","Black Turf",3
+"2452","March_2023","SB","SB24","Green Turf",0.7
+"2453","March_2023","SB","SB24","Hard coral",36.3
+"2454","March_2023","SB","SB24","Macroalgae",25.7
+"2455","March_2023","SB","SB24","Other",0
+"2456","March_2023","SB","SB24","Other Turf",3.5
+"2457","March_2023","SB","SB24","Other benthic invertebrates",1.1
+"2458","March_2023","SB","SB24","Red Turf",13.5
+"2459","March_2023","SB","SB24","Rubble and Rock",0.5
+"2460","March_2023","SB","SB24","Sand",15.7
+"2461","March_2023","SB","SB25","Black Turf",2.3
+"2462","March_2023","SB","SB25","Green Turf",0.4
+"2463","March_2023","SB","SB25","Hard coral",21.8
+"2464","March_2023","SB","SB25","Macroalgae",33.2
+"2465","March_2023","SB","SB25","Other",0
+"2466","March_2023","SB","SB25","Other Turf",4.2
+"2467","March_2023","SB","SB25","Other benthic invertebrates",0.9
+"2468","March_2023","SB","SB25","Red Turf",17.3
+"2469","March_2023","SB","SB25","Rubble and Rock",0.6
+"2470","March_2023","SB","SB25","Sand",19.3
+"2471","March_2023","SB","SB26","Black Turf",5.5
+"2472","March_2023","SB","SB26","Green Turf",0.4
+"2473","March_2023","SB","SB26","Hard coral",11.7
+"2474","March_2023","SB","SB26","Macroalgae",39.7
+"2475","March_2023","SB","SB26","Other",0
+"2476","March_2023","SB","SB26","Other Turf",9.8
+"2477","March_2023","SB","SB26","Other benthic invertebrates",1
+"2478","March_2023","SB","SB26","Red Turf",15.5
+"2479","March_2023","SB","SB26","Rubble and Rock",3.3
+"2480","March_2023","SB","SB26","Sand",13.1
+"2481","March_2023","SB","SB27","Black Turf",0
+"2482","March_2023","SB","SB27","Green Turf",0
+"2483","March_2023","SB","SB27","Hard coral",0
+"2484","March_2023","SB","SB27","Macroalgae",0
+"2485","March_2023","SB","SB27","Other",0
+"2486","March_2023","SB","SB27","Other Turf",0
+"2487","March_2023","SB","SB27","Other benthic invertebrates",0
+"2488","March_2023","SB","SB27","Red Turf",0
+"2489","March_2023","SB","SB27","Rubble and Rock",0
+"2490","March_2023","SB","SB27","Sand",100
+"2491","March_2023","SB","SB3","Black Turf",4.7
+"2492","March_2023","SB","SB3","Green Turf",0.8
+"2493","March_2023","SB","SB3","Hard coral",38.2
+"2494","March_2023","SB","SB3","Macroalgae",18.4
+"2495","March_2023","SB","SB3","Other",0
+"2496","March_2023","SB","SB3","Other Turf",5.4
+"2497","March_2023","SB","SB3","Other benthic invertebrates",0.2
+"2498","March_2023","SB","SB3","Red Turf",12.7
+"2499","March_2023","SB","SB3","Rubble and Rock",1.4
+"2500","March_2023","SB","SB3","Sand",18.2
+"2501","March_2023","SB","SB4","Black Turf",7.9
+"2502","March_2023","SB","SB4","Green Turf",0.6
+"2503","March_2023","SB","SB4","Hard coral",30.8
+"2504","March_2023","SB","SB4","Macroalgae",25.5
+"2505","March_2023","SB","SB4","Other",0
+"2506","March_2023","SB","SB4","Other Turf",9.6
+"2507","March_2023","SB","SB4","Other benthic invertebrates",0.3
+"2508","March_2023","SB","SB4","Red Turf",4.2
+"2509","March_2023","SB","SB4","Rubble and Rock",0.3
+"2510","March_2023","SB","SB4","Sand",20.8
+"2511","March_2023","SB","SB5","Black Turf",0.9
+"2512","March_2023","SB","SB5","Green Turf",0.4
+"2513","March_2023","SB","SB5","Hard coral",36.3
+"2514","March_2023","SB","SB5","Macroalgae",12.8
+"2515","March_2023","SB","SB5","Other",0
+"2516","March_2023","SB","SB5","Other Turf",15.9
+"2517","March_2023","SB","SB5","Other benthic invertebrates",1
+"2518","March_2023","SB","SB5","Red Turf",4.8
+"2519","March_2023","SB","SB5","Rubble and Rock",1
+"2520","March_2023","SB","SB5","Sand",26.9
+"2521","March_2023","SB","SB6","Black Turf",0
+"2522","March_2023","SB","SB6","Green Turf",0.1
+"2523","March_2023","SB","SB6","Hard coral",62.3
+"2524","March_2023","SB","SB6","Macroalgae",16
+"2525","March_2023","SB","SB6","Other",0
+"2526","March_2023","SB","SB6","Other Turf",4.4
+"2527","March_2023","SB","SB6","Other benthic invertebrates",1.2
+"2528","March_2023","SB","SB6","Red Turf",0.9
+"2529","March_2023","SB","SB6","Rubble and Rock",3.9
+"2530","March_2023","SB","SB6","Sand",11.2
+"2531","March_2023","SB","SB8","Black Turf",1.7
+"2532","March_2023","SB","SB8","Green Turf",0.4
+"2533","March_2023","SB","SB8","Hard coral",40.1
+"2534","March_2023","SB","SB8","Macroalgae",11.6
+"2535","March_2023","SB","SB8","Other",0
+"2536","March_2023","SB","SB8","Other Turf",37
+"2537","March_2023","SB","SB8","Other benthic invertebrates",1
+"2538","March_2023","SB","SB8","Red Turf",0
+"2539","March_2023","SB","SB8","Rubble and Rock",0
+"2540","March_2023","SB","SB8","Sand",8.2
+"2541","March_2023","SB","SB9","Black Turf",1.1
+"2542","March_2023","SB","SB9","Green Turf",0.2
+"2543","March_2023","SB","SB9","Hard coral",29.3
+"2544","March_2023","SB","SB9","Macroalgae",20.3
+"2545","March_2023","SB","SB9","Other",0
+"2546","March_2023","SB","SB9","Other Turf",42
+"2547","March_2023","SB","SB9","Other benthic invertebrates",0.1
+"2548","March_2023","SB","SB9","Red Turf",0.1
+"2549","March_2023","SB","SB9","Rubble and Rock",0.2
+"2550","March_2023","SB","SB9","Sand",6.7

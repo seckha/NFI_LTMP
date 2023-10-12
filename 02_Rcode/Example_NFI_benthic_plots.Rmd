@@ -1,0 +1,399 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+---
+title: "R Notebook"
+output: html_notebook
+---
+ 
+This workbook is for plotting of cover data for Norfolk Island Ecosystem Health Surveys
+
+Read in data
+
+# NOTE - script will need to be updated reflecting new labels 
+
+
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+
+master_data <- read.csv("CORAL_NET_MASTER_April_23_UPDATED.csv")
+```
+
+Transpose data frame
+
+```{r}
+
+# Transpose the data frame
+t.cover <- master_data %>% gather(Genera, Cover, Acanthastrea.Bleached:Black_turf)
+str(t.cover)
+
+```
+
+Re-assign coral categories 
+
+```{r}
+
+# Nested if else to create a new variable where genera are sorted into benthic category type.
+
+
+benthic.cats <- t.cover %>%
+  mutate(Category = 
+      ifelse(Genera %in% c("Acanthastrea.Bleached", "Acanthastrea.Healthy", "Acanthastra.Healthy","Acanthastrea.Paling"),
+             "Acanthastrea",
+      ifelse(Genera %in% c("Acropora.Branching.Bleached","Acropora.Branching.Healthy","Acropora.Branching.Paling"), 
+             "Acropora_branch",
+      ifelse(Genera %in% c("Acropora.NonBranching.Bleached","Acropora.NonBranching.Healthy","Acropora.NonBranching.Paling"), 
+             "Acropora_non_branch",
+      ifelse(Genera %in% c("Goniopora.Bleached","Goniopora.Healthy","Goniopora.Paling"), 
+             "Goniopora",
+      ifelse(Genera %in% c("Montipora.Encrusting.Bleached","Montipora.Encrusting.Healthy","Montipora.Encrusting.Paling"),
+               "Montipora_encrusting",
+      ifelse(Genera %in% c("Montipora.Plating.Bleached","Montipora.Plating.Healthy","Montipora.Plating.Paling"),
+             "Montipora_plating", 
+      ifelse(Genera %in% c("Other.Branch.Bleached","Other.Branch.Healthy","Other.Branch.Paling"),
+             "Pocilloporidae", 
+      ifelse(Genera %in% c("Platygyra.Bleached","Platygyra.Healthy","Platygyra.Paling"),
+             "Platygyra",   
+      ifelse(Genera %in% c("Porites.Bleached","Porites.Healthy","Porites.Paling"),
+             "Porites", 
+      ifelse(Genera %in% c("Other.Calcified.Invert","Calcifying.algae..Other"),
+             "Other Calcifier", 
+      ifelse(Genera %in% c("Sand"),
+             "Sand",
+      ifelse(Genera %in% c("Rubble","Bare_rock"),
+             "Rubble and Rock", 
+      ifelse(Genera %in% c("Algae..Fleshy.","Kelp"),
+             "Fleshy", 
+      ifelse(Genera %in% c("Macroalgae"),
+             "Macroalgae", 
+      ifelse(Genera %in% c("Red.Turf"),
+             "Red Turf", 
+      ifelse(Genera %in% c("Turf.algae"),
+             "Green Turf",
+      ifelse(Genera %in% c("Black_turf"),
+             "Black Turf",
+      ifelse(Genera %in% c("All.other"),
+               "Other","NA"
+             )))))))))))))))))))
+
+```
+
+
+```{r}
+# Sum groups for each PQ so that we have a total cover per grouping, per time points
+
+str(benthic.cats)
+
+groups_sum <- benthic.cats %>% 
+  group_by(TP,Transect_ID,PQ,Category) %>%
+  summarise(Total_cover = sum(Cover))
+
+write.csv(groups_sum, "Cover_per_category_per_quadrat.csv")
+  
+# Search for any NAs
+
+filter(groups_sum, Category == "NA")
+
+# These are here because they are dead coral or the other category (we don't know what that is...probably should remove NAs but leave in for now to see how much cover they take up)
+```
+
+Specify the main groups for plotting
+
+```{r}
+
+# Cover per PQ per quadrat
+
+# Split Transect_ID into EB and SB 
+
+groups_sum_split <- groups_sum %>%
+  separate(Transect_ID, c("Site", "Transect"), "_") 
+
+cover.groups <- groups_sum_split  %>%
+  mutate(Main_groups = 
+      ifelse(Category %in% c("Acropora_branch", "Acropora_non_branch", "Acanthastrea","Goniopora","Montipora_encrusting","Montipora_plating","Pocilloporidae","Platygyra","Porites"),
+             "Hard_coral",
+      ifelse(Category %in% c("Macroalgae"), 
+             "Macroalgae",
+       ifelse(Category %in% c("Red Turf"), 
+             "Red_Turf",
+       ifelse(Category %in% c("Green Turf"), 
+              "Green_Turf",
+        ifelse(Category %in% c("Black Turf"),
+               "Black_Turf",
+      ifelse(Category %in% c("Rubble and Rock"),
+             "Rubble and Rock", 
+      ifelse(Category %in% c("Other"),
+      "Other","NA"
+             ))))))))
+
+
+# SUM for main groups per PQ 
+
+main_groups_cover_transect <- cover.groups %>% 
+  group_by(TP,Site,Transect, PQ,Main_groups) %>% 
+  summarise(sum.PQ = sum(Total_cover))
+
+# Average main groups per transect
+
+average_cover_main_groups <- main_groups_cover_transect %>% 
+  group_by(TP,Site,Transect,Main_groups)%>% 
+  summarise(avg.cover=mean(sum.PQ))
+
+
+write.csv(average_cover_main_groups, "NFI_transect_average_cover.csv")
+            
+# AVG cover per TP, Site (SE)
+            
+average_cover_all <- average_cover_main_groups %>% 
+  group_by(TP,Site,Main_groups) %>% 
+  summarise(avg.cover.all=mean(avg.cover),
+            median_cover = median(avg.cover),
+  N = n(),
+  SD_cover = sd(avg.cover),
+  SE_cover = sd(avg.cover/sqrt(n())))
+
+write.csv(average_cover_all, "NFI_time_site_average_cover.csv")
+            
+
+  
+```
+
+# Plotting 
+
+Order time points
+
+```{r}
+
+# Order TP 
+
+average_cover_all$TP <- ordered(average_cover_all$TP, levels = c("March_2020","March_2021","April_2022","Sept_2022","Dec_2022","April_2023"))
+
+average_cover_main_groups$TP <- ordered(average_cover_main_groups$TP, levels = c("March_2020","March_2021","April_2022","Sept_2022","Dec_2022","April_2023"))
+
+```
+
+# EB plot 
+
+```{r}
+
+# Subset EB and remove NA
+
+# Box plot 
+
+EB_only_average_cover_all_box <- average_cover_main_groups %>% filter(Site == "EB") %>% subset(Main_groups != "NA")
+
+EB_only_average_cover_all_box $Main_groups <- ordered(EB_only_average_cover_all_box $Main_groups, levels = c("Hard_coral","Macroalgae","Red_Turf","Green_Turf","Black_Turf","Rubble and Rock"))
+
+
+ggplot(EB_only_average_cover_all_box, aes(x=TP, y=avg.cover)) +
+  geom_boxplot() +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Main_groups)
+
+# Remove March 2021 
+
+EB_only_average_cover_all_box_minus_March_2021 <- EB_only_average_cover_all_box %>% filter(TP != "March_2021")
+
+ggplot(EB_only_average_cover_all_box_minus_March_2021, aes(x=TP, y=avg.cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Main_groups)
+
+# Coral groups
+
+EB_coral <- cover.groups %>%
+  filter(Main_groups == "Hard_coral") %>%
+  filter(Site == "EB") %>%
+  filter(TP != "March_2021")
+
+EB_coral_transect <- EB_coral %>% group_by(TP,Site,Transect,Category) %>%
+  summarise(cover = mean(Total_cover))
+
+
+EB_coral_transect$Category <- ordered(EB_coral_transect$Category, levels = c("Acropora_branch","Acropora_non_branch","Montipora_encrusting","Montipora_plating","Pocilloporidae","Acanthastrea","Goniopora","Platygyra","Porites"))
+
+EB_coral_transect$TP <- ordered(EB_coral_transect$TP, levels = c("March_2020","April_2022","Sept_2022","Dec_2022","April_2023"))
+
+ggplot(EB_coral_transect, aes(x=TP, y=cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,60)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Category)
+
+```
+
+# SB plot 
+
+
+```{r}
+
+# Box plot 
+
+SB_only_average_cover_all_box <- average_cover_main_groups %>% filter(Site == "SB") %>% subset(Main_groups != "NA")
+
+SB_only_average_cover_all_box $Main_groups <- ordered(SB_only_average_cover_all_box $Main_groups, levels = c("Hard_coral","Macroalgae","Red_Turf","Green_Turf","Black_Turf","Rubble and Rock"))
+
+average_cover_main_groups 
+
+
+ggplot(SB_only_average_cover_all_box, aes(x=TP, y=avg.cover)) +
+  geom_boxplot() +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Main_groups)
+
+SB_only_average_cover_all_box_minus_March_2021 <- SB_only_average_cover_all_box %>% filter(TP != "March_2021")
+
+ggplot(SB_only_average_cover_all_box_minus_March_2021, aes(x=TP, y=avg.cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Main_groups)
+
+# Coral groups
+
+SB_coral <- cover.groups %>%
+  filter(Main_groups == "Hard_coral") %>%
+  filter(Site == "SB") %>%
+  filter(TP != "March_2021")
+
+SB_coral_transect <- SB_coral %>% group_by(TP,Site,Transect,Category) %>%
+  summarise(cover = mean(Total_cover))
+
+
+SB_coral_transect$Category <- ordered(SB_coral_transect$Category, levels = c("Acropora_branch","Acropora_non_branch","Montipora_encrusting","Montipora_plating","Pocilloporidae","Acanthastrea","Goniopora","Platygyra","Porites"))
+
+SB_coral_transect$TP <- ordered(SB_coral_transect$TP, levels = c("March_2020","April_2022","Sept_2022","Dec_2022","April_2023"))
+
+ggplot(SB_coral_transect, aes(x=TP, y=cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,60)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Category)
+
+```
+
+# Plotting of cover groups in SB (SB East, SB Middle, SB West (stairs))
+
+```{r}
+
+
+SB_transects_maingroups <- main_groups_cover_transect %>% filter(Site == "SB") %>% 
+  group_by(TP,Site,Transect,Main_groups)%>% 
+  summarise(avg.cover=mean(sum.PQ))
+
+SB_transects_maingroups$TP <- ordered(SB_transects_maingroups$TP, levels = c("March_2020","March_2021","April_2022","Sept_2022","Dec_2022","April_2023"))
+
+SB_transects_maingroups$Main_groups <- ordered(SB_transects_maingroups$Main_groups, levels = c("Hard_coral","Macroalgae","Red_Turf","Green_Turf","Black_Turf","Rubble and Rock"))
+
+SB_main_groups_subsetted <- SB_transects_maingroups %>% 
+  filter(TP != "March_2021") %>%
+  mutate(Transect_group = 
+      ifelse(Transect %in% c("9", "8","10","11","6","12","5"),
+             "SB_west",
+      ifelse(Transect %in% c("4","3","24","26","25","27","14","13","15","16","17"),
+             "SB_middle",
+       ifelse(Transect %in% c("1","23","22","21","18","19","20"), 
+             "SB_East","NA"
+             ))))
+
+SB_west_main <- SB_main_groups_subsetted %>% filter(Transect_group == "SB_west") %>% filter(Main_groups != "NA") 
+
+ggplot(SB_west_main, aes(x=TP, y=avg.cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Main_groups)
+
+SB_middle_main <- SB_main_groups_subsetted %>% filter(Transect_group == "SB_middle") %>% filter(Main_groups != "NA") 
+
+ggplot(SB_middle_main, aes(x=TP, y=avg.cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Main_groups)
+
+SB_East_main <- SB_main_groups_subsetted %>% filter(Transect_group == "SB_East") %>% filter(Main_groups != "NA") 
+
+ggplot(SB_East_main, aes(x=TP, y=avg.cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Main_groups)
+
+
+
+```
+
+# Plotting of coral cover groups in SB (SB East, SB Middle, SB West (stairs))
+
+```{r}
+
+# Coral groups
+
+SB_coral <- cover.groups %>%
+  filter(Main_groups == "Hard_coral") %>%
+  filter(Site == "SB") %>%
+  filter(TP != "March_2021")
+
+SB_coral_transect <- SB_coral %>% group_by(TP,Site,Transect,Category) %>%
+  summarise(cover = mean(Total_cover))
+
+SB_coral_transect$Category <- ordered(SB_coral_transect$Category, levels = c("Acropora_branch","Acropora_non_branch","Montipora_encrusting","Montipora_plating","Pocilloporidae","Acanthastrea","Goniopora","Platygyra","Porites"))
+
+SB_coral_transect$TP <- ordered(SB_coral_transect$TP, levels = c("March_2020","April_2022","Sept_2022","Dec_2022","April_2023"))
+
+SB_coral <- SB_coral_transect %>%
+  mutate(Transect_group = 
+      ifelse(Transect %in% c("9", "8","10","11","6","12","5"),
+             "SB_west",
+      ifelse(Transect %in% c("4","3","24","26","25","27","14","13","15","16","17"),
+             "SB_middle",
+       ifelse(Transect %in% c("1","23","22","21","18","19","20"), 
+             "SB_East","NA"
+             ))))
+
+SB_west_coral <- SB_coral %>% filter(Transect_group == "SB_west")
+
+ggplot(SB_west_coral, aes(x=TP, y=cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,60)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Category)
+
+SB_middle_coral <- SB_coral %>% filter(Transect_group == "SB_middle")
+
+ggplot(SB_middle_coral, aes(x=TP, y=cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,60)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Category)
+
+SB_East_coral <- SB_coral %>% filter(Transect_group == "SB_East")
+
+ggplot(SB_East_coral, aes(x=TP, y=cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,60)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Category)
+
+
+
+```

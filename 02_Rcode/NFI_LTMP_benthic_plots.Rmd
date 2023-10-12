@@ -1,0 +1,39 @@
+---
+title: "NFI LTMP Benthic Plots"
+author: "Shannon Eckhardt"
+date: "2023-10-12"
+output: html_document
+---
+
+# LOAD LIBRARIES & DATA
+```{r}
+library(tidyverse)
+library(readxl)
+
+
+master_data <- read_excel("/Users/Shannon/GitHub/NFI_LTMP/01 _Data/Benthic_cover_March20-March23.xlsx")
+```
+
+# DATA CLEANING
+
+```{r}
+# Pick out site, transect_ID and PQ
+master_data <- master_data %>%
+  mutate(Site = str_extract(Image_ID, "[A-Z]{2}"),
+         Transect_ID = str_extract(Image_ID, "[A-Z]{2}\\d+(?=_)"),
+  # extract the number before the end of string
+         PQ = str_extract(Image_ID, "\\d+$")) %>% 
+  dplyr::select(Image_ID, TP, Site, Transect_ID, PQ, everything()) # reorder columns
+```
+
+# CATEGORIES
+
+Transpose data
+```{r}
+t.cover <- master_data %>% pivot_longer(c(ABH:`T`), names_to = "Genera", values_to = "Cover")
+```
+Grouping into broader categories
+```{r}
+
+```
+

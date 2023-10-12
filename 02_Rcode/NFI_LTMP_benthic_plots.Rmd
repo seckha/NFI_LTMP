@@ -11,7 +11,7 @@ library(tidyverse)
 library(readxl)
 
 
-master_data <- read_excel("/Users/Shannon/GitHub/NFI_LTMP/01 _Data/Benthic_cover_March20-March23.xlsx")
+master_data <- read_excel("/Users/Shannon/GitHub/NFI_LTMP/01_Data/Benthic_cover_March20-March23.xlsx")
 ```
 
 # DATA CLEANING
@@ -75,5 +75,18 @@ benthic.cats <- t.cover %>%
       ifelse(Genera %in% c("NA"),
                "Other","NA"
              ))))))))))))))))))))
+```
+Sum counts/cover per quadrat
+```{r}
+groups_sum <- benthic.cats %>% 
+  group_by(TP,Transect_ID,PQ,Category) %>%
+  summarise(Total_cover = sum(Cover))
+
+write.csv(groups_sum, file = "/Users/Shannon/GitHub/NFI_LTMP/01_Data/Cover_per_category_per_quadrat.csv")
+
+# search for NAs
+filter(groups_sum, Category == "NA")
+
+# no NAs because dead coral is now in the category R = Rubble
 ```
 

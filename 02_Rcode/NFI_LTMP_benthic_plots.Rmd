@@ -12,6 +12,8 @@ library(readxl)
 
 
 master_data <- read_excel("/Users/Shannon/GitHub/NFI_LTMP/01_Data/Benthic_cover_March20-March23.xlsx")
+# no september 2022 in this data
+
 ```
 
 # DATA CLEANING
@@ -140,5 +142,74 @@ average_cover_all <- average_cover_main_groups %>%
   SE_cover = sd(avg.cover/sqrt(n())))
 
 write.csv(average_cover_all, "/Users/Shannon/GitHub/NFI_LTMP/01_DataNFI_time_site_average_cover.csv")
+```
+
+
+# PLOTTING
+
+Order time points
+```{r}
+
+# Order TPs
+
+average_cover_all$TP <- ordered(average_cover_all$TP, levels = c("March_2020","Dec_2020", "March_2021","April_2022","Dec_2022","March_2023"))
+
+average_cover_main_groups$TP <- ordered(average_cover_main_groups$TP, levels = c("March_2020","Dec_2020","March_2021","April_2022","Dec_2022","March_2023"))
+
+```
+
+## EB PLOT
+
+```{r}
+
+# Subset EB
+
+# Box plot 
+
+EB_only_average_cover_all_box <- average_cover_main_groups %>% filter(Site == "EB") %>% subset(Main_groups != c("Other", "Sand")) # remove sand and other category
+
+EB_only_average_cover_all_box$Main_groups <- ordered(EB_only_average_cover_all_box$Main_groups, levels = c("Hard coral","Macroalgae","Red Turf","Green Turf","Black Turf", "Other Turf", "Other benthic invertebrates","Rubble and Rock", "Other"))
+
+
+ggplot(EB_only_average_cover_all_box, aes(x=TP, y=avg.cover)) +
+  geom_boxplot() +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Main_groups)
+
+# # Remove March 2021 
+# 
+# EB_only_average_cover_all_box_minus_March_2021 <- EB_only_average_cover_all_box %>% filter(TP != "March_2021")
+# 
+# ggplot(EB_only_average_cover_all_box_minus_March_2021, aes(x=TP, y=avg.cover)) +
+#   geom_boxplot(outlier.size = 0.1) +
+#   theme_bw() +
+#   scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+#   theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+#     facet_grid(~Main_groups)
+
+# Coral groups
+
+EB_coral <- cover.groups %>%
+  filter(Main_groups == "Hard coral") %>%
+  filter(Site == "EB")
+  #filter(TP != "March_2021")
+
+EB_coral_transect <- EB_coral %>% group_by(TP,Site,Transect_ID,Category) %>%
+  summarise(cover = mean(Total_cover))
+
+
+EB_coral_transect$Category <- ordered(EB_coral_transect$Category, levels = c("Acropora_branch","Acropora_non_branch","Montipora_encrusting","Montipora_plating","Pocilloporidae","Acanthastrea","Goniopora","Platygyra","Porites", "Other hard coral"))
+
+EB_coral_transect$TP <- ordered(EB_coral_transect$TP, levels = c("March_2020", "Dec_2020", "March_2021", "April_2022","Dec_2022","March_2023"))
+
+ggplot(EB_coral_transect, aes(x=TP, y=cover)) +
+  geom_boxplot(outlier.size = 0.1) +
+  theme_bw() +
+  scale_y_continuous(expand = c(0, 0), limits = c(0,60)) +
+  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+    facet_grid(~Category)
+
 ```
 

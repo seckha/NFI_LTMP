@@ -34,6 +34,46 @@ t.cover <- master_data %>% pivot_longer(c(ABH:`T`), names_to = "Genera", values_
 ```
 Grouping into broader categories
 ```{r}
-
+benthic.cats <- t.cover %>%
+  mutate(Category = 
+      ifelse(Genera %in% c("ACH"),
+             "Acanthastrea",
+      ifelse(Genera %in% c("ABH"), 
+             "Acropora_branch",
+      ifelse(Genera %in% c("ANH"), 
+             "Acropora_non_branch",
+      ifelse(Genera %in% c("GOH"), 
+             "Goniopora",
+      ifelse(Genera %in% c("MEH"),
+               "Montipora_encrusting",
+      ifelse(Genera %in% c("MPH"),
+             "Montipora_plating", 
+      ifelse(Genera %in% c("OBH"),
+             "Pocilloporidae", 
+      ifelse(Genera %in% c("PLH"),
+             "Platygyra",   
+      ifelse(Genera %in% c("POH"),
+             "Porites", 
+      ifelse(Genera %in% c("OG"),
+             "Other hard coral", 
+      ifelse(Genera %in% c("S"),
+             "Sand",
+      ifelse(Genera %in% c("R","BARK"),
+             "Rubble and Rock", 
+      ifelse(Genera %in% c("Flesh", "Fol", "Dictyota", "Caulerpa", "Leath", "ACA", "CCA"),
+             "Macroalgae", 
+      ifelse(Genera %in% c("RT"),
+             "Red Turf", 
+      ifelse(Genera %in% c("T"),
+             "Green Turf",
+      ifelse(Genera %in% c("OtT"),
+             "Other Turf",
+      ifelse(Genera %in% c("BT"),
+             "Black Turf",
+      ifelse(Genera %in% c("ASCD", "anemo", "ESCB", "soft", "Urchin"),
+             "Other benthic invertebrates",
+      ifelse(Genera %in% c("NA"),
+               "Other","NA"
+             ))))))))))))))))))))
 ```
 

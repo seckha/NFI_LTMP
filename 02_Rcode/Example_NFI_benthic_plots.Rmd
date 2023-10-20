@@ -251,14 +251,14 @@ ggplot(SB_only_average_cover_all_box, aes(x=TP, y=avg.cover)) +
   theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
     facet_grid(~Main_groups)
 
-SB_only_average_cover_all_box_minus_March_2021 <- SB_only_average_cover_all_box %>% filter(TP != "March_2021")
-
-ggplot(SB_only_average_cover_all_box_minus_March_2021, aes(x=TP, y=avg.cover)) +
-  geom_boxplot(outlier.size = 0.1) +
-  theme_bw() +
-  scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
-  theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
-    facet_grid(~Main_groups)
+# SB_only_average_cover_all_box_minus_March_2021 <- SB_only_average_cover_all_box %>% filter(TP != "March_2021")
+# 
+# ggplot(SB_only_average_cover_all_box_minus_March_2021, aes(x=TP, y=avg.cover)) +
+#   geom_boxplot(outlier.size = 0.1) +
+#   theme_bw() +
+#   scale_y_continuous(expand = c(0, 0), limits = c(0,100)) +
+#   theme(axis.text.x = element_text(hjust=0.95,vjust=0.2,angle = 90)) +
+#     facet_grid(~Main_groups)
 
 # Coral groups
 
